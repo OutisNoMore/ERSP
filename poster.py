@@ -19,7 +19,7 @@ def plot(X, Ys, labels):
 def main():
     output = []  # Array of confidences for each phone
     labels = []  # type of phone
-    greatest = 0 # if not the same length
+    smallest = float('inf') # conform to same length recording
     # Extend data for 3 second intervals
     for dataFile in sys.argv:
         if dataFile == sys.argv[0] or dataFile == sys.argv[1]:
@@ -31,15 +31,15 @@ def main():
                 tripled.append(float(confidence))
                 tripled.append(float(confidence))
                 tripled.append(float(confidence))
-        if len(tripled) > greatest:
-            greatest = len(tripled)
+        if len(tripled) < smallest:
+            smallest = len(tripled)
         output.append(tripled)
-    # Make sure all array are same length
+    # Make sure all array are same length, truncate if not
     for data in output:
-        while len(data) != greatest:
-            data.append(0.0)
+        while len(data) > smallest:
+            data.pop()
     # Plot confidences against seconds
-    X = list(range(0, greatest))
+    X = list(range(0, smallest))
     plot(X, output, labels)
 
 if __name__ == "__main__":
