@@ -12,6 +12,8 @@ each input file should only have 1 confidence per line.
 def plot(X, Ys, labels):
     for confidences, title in zip(Ys, labels):
         matplotlib.pyplot.plot(X, confidences, label=title)
+    matplotlib.pyplot.xlabel("Time (s)")
+    matplotlib.pyplot.ylabel("Confidence")
     matplotlib.pyplot.ylim(0, 1.1)
     matplotlib.pyplot.title(sys.argv[1])
     matplotlib.pyplot.legend(bbox_to_anchor=(1.01, 1.0), loc='upper left')
