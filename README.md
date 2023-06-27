@@ -2,10 +2,10 @@
 
 usage:
 
-python3 poster.py <output_file_name> <file_1> <file_2> <file_3>...
+python3 poster.py <Graph_Title> <file_1> <file_2> <file_3>...
 
-ie python3 poster.py flamingo flamingo_galaxy flamingo_blubold flamingo_ground_truth
+ie python3 poster.py "Greater Flamingo" flamingo_galaxy flamingo_blubold flamingo_ground_truth
 
-creates flamingo.png with plot
+creates graph with title Greater Flamingo
 
-each csv file should only have 1 confidence per line.
+each input file should only have 1 confidence per line.
