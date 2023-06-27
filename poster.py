@@ -13,7 +13,7 @@ def plot(X, Ys, labels):
     for confidences, title in zip(Ys, labels):
         matplotlib.pyplot.plot(X, confidences, label=title)
     matplotlib.pyplot.legend()
-    matplotlib.pyplot.savefig(sys.argv[1])
+    #matplotlib.pyplot.savefig(sys.argv[1])
     matplotlib.pyplot.show()
 
 def main():
@@ -22,7 +22,7 @@ def main():
     smallest = float('inf') # conform to same length recording
     # Extend data for 3 second intervals
     for dataFile in sys.argv:
-        if dataFile == sys.argv[0] or dataFile == sys.argv[1]:
+        if dataFile == sys.argv[0]:# or dataFile == sys.argv[1]:
             continue
         tripled = []
         labels.append(dataFile)
@@ -31,7 +31,7 @@ def main():
                 tripled.append(float(confidence))
                 tripled.append(float(confidence))
                 tripled.append(float(confidence))
-        if len(tripled) < smallest:
+        if (len(tripled) < smallest):
             smallest = len(tripled)
         output.append(tripled)
     # Make sure all array are same length, truncate if not
