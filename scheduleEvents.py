@@ -1,12 +1,13 @@
 """
 Usage: python3 scheduleEvents.py
+Output: ics file
 """
 def main():
     startDate = '20230806' # INPUT: recording start date (YYYYMMDD)
     endDate   = '1'        # INPUT: number of days to schedule
-    name      = 'record'   # INPUT: name of recording
+    name      = 'record'   # INPUT: name of event
 
-    # Schedule 1 minute recordings every 10 minutes
+    # Schedule 1 minute event every 10 minutes
     events = open(f'{name}.ics', 'w')
     events.write('BEGIN:VCALENDAR\n')
     for hour in range(0, 24):
