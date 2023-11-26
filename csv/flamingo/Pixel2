@@ -1,0 +1,146 @@
+start_of_interval,end_of_interval,species,confidence
+0, 3, Phoenicopterus roseus_Greater Flamingo, 0.7073883
+0, 3, Ardea herodias_Great Blue Heron, 0.07930703
+0, 3, Anser anser_Graylag Goose, 0.045972575
+0, 3, Cygnus cygnus_Whooper Swan, 0.030183598
+0, 3, Phoenicopterus ruber_American Flamingo, 0.024478715
+3, 6, Phoenicopterus roseus_Greater Flamingo, 0.91304547
+3, 6, Branta canadensis_Canada Goose, 0.09021141
+3, 6, Anser anser_Graylag Goose, 0.045787208
+3, 6, Cygnus cygnus_Whooper Swan, 0.018693173
+3, 6, Anser fabalis_Taiga Bean-Goose, 0.01606963
+6, 9, Phoenicopterus roseus_Greater Flamingo, 0.08474197
+6, 9, Larus marinus_Great Black-backed Gull, 0.080371425
+6, 9, Ardea herodias_Great Blue Heron, 0.030789435
+6, 9, Cygnus buccinator_Trumpeter Swan, 0.020910617
+6, 9, Strix uralensis_Ural Owl, 0.01732431
+9, 12, Seiurus aurocapilla_Ovenbird, 0.052893534
+9, 12, Dog_Dog, 0.03381543
+9, 12, Branta bernicla_Brant, 0.033092562
+9, 12, Myiarchus crinitus_Great Crested Flycatcher, 0.032983415
+9, 12, Geothlypis trichas_Common Yellowthroat, 0.03222544
+12, 15, Phoenicopterus roseus_Greater Flamingo, 0.9060642
+12, 15, Ardea herodias_Great Blue Heron, 0.09841523
+12, 15, Pica pica_Eurasian Magpie, 0.0112656485
+12, 15, Ardea cocoi_Cocoi Heron, 0.0074714064
+12, 15, Ardea purpurea_Purple Heron, 0.005152733
+15, 18, Phoenicopterus roseus_Greater Flamingo, 0.73148036
+15, 18, Cygnus buccinator_Trumpeter Swan, 0.40828046
+15, 18, Phoenicopterus ruber_American Flamingo, 0.11497352
+15, 18, Dog_Dog, 0.058071185
+15, 18, Ardea herodias_Great Blue Heron, 0.05584065
+18, 21, Phoenicopterus roseus_Greater Flamingo, 0.9599739
+18, 21, Dog_Dog, 0.04766672
+18, 21, Cygnus buccinator_Trumpeter Swan, 0.033030845
+18, 21, Phoeniconaias minor_Lesser Flamingo, 0.017193742
+18, 21, Ardea herodias_Great Blue Heron, 0.014737051
+21, 24, Branta bernicla_Brant, 0.057716064
+21, 24, Branta canadensis_Canada Goose, 0.0476526
+21, 24, Dog_Dog, 0.040274262
+21, 24, Nycticorax nycticorax_Black-crowned Night-Heron, 0.032734722
+21, 24, Egretta garzetta_Little Egret, 0.030684536
+24, 27, Engine_Engine, 0.12119531
+24, 27, Human vocal_Human vocal, 0.041630656
+24, 27, Power tools_Power tools, 0.022067111
+24, 27, Canis lupus_Gray Wolf, 0.014533237
+24, 27, Siren_Siren, 0.01242289
+27, 30, Bubulcus ibis_Cattle Egret, 0.41130948
+27, 30, Rallus limicola_Virginia Rail, 0.06673308
+27, 30, Alectoris rufa_Red-legged Partridge, 0.06320505
+27, 30, Egretta caerulea_Little Blue Heron, 0.0163589
+27, 30, Melanerpes formicivorus_Acorn Woodpecker, 0.016097406
+30, 33, Rallus limicola_Virginia Rail, 0.6050102
+30, 33, Anas platyrhynchos_Mallard, 0.17107199
+30, 33, Gygis alba_White Tern, 0.027602376
+30, 33, Plegadis chihi_White-faced Ibis, 0.024298742
+30, 33, Podiceps grisegena_Red-necked Grebe, 0.018149436
+33, 36, Branta bernicla_Brant, 0.4588175
+33, 36, Orthopsittaca manilatus_Red-bellied Macaw, 0.05360846
+33, 36, Anas platyrhynchos_Mallard, 0.04546143
+33, 36, Ardea cinerea_Gray Heron, 0.024316497
+33, 36, Branta leucopsis_Barnacle Goose, 0.019489584
+36, 39, Branta bernicla_Brant, 0.8407233
+36, 39, Anas platyrhynchos_Mallard, 0.16643538
+36, 39, Branta leucopsis_Barnacle Goose, 0.07730839
+36, 39, Gyps fulvus_Eurasian Griffon, 0.061431147
+36, 39, Clangula hyemalis_Long-tailed Duck, 0.03989458
+39, 42, Bubulcus ibis_Cattle Egret, 0.40177894
+39, 42, Fulmarus glacialis_Northern Fulmar, 0.13422607
+39, 42, Phoenicopterus roseus_Greater Flamingo, 0.09228957
+39, 42, Somateria spectabilis_King Eider, 0.08871605
+39, 42, Mergus merganser_Common Merganser, 0.05147974
+42, 45, Phoenicopterus roseus_Greater Flamingo, 0.11545944
+42, 45, Ardea herodias_Great Blue Heron, 0.070107535
+42, 45, Dog_Dog, 0.046583943
+42, 45, Lophodytes cucullatus_Hooded Merganser, 0.036068257
+42, 45, Buceros bicornis_Great Hornbill, 0.033259977
+45, 48, Geothlypis trichas_Common Yellowthroat, 0.038394697
+45, 48, Upupa epops_Eurasian Hoopoe, 0.03623493
+45, 48, Cardinalis cardinalis_Northern Cardinal, 0.034661047
+45, 48, Seiurus aurocapilla_Ovenbird, 0.022068454
+45, 48, Cuculus canorus_Common Cuckoo, 0.019059429
+48, 51, Corvus brachyrhynchos_American Crow, 0.30127704
+48, 51, Cygnus buccinator_Trumpeter Swan, 0.23034321
+48, 51, Melanerpes carolinus_Red-bellied Woodpecker, 0.08788483
+48, 51, Branta canadensis_Canada Goose, 0.022758264
+48, 51, Quiscalus mexicanus_Great-tailed Grackle, 0.020444553
+51, 54, Branta bernicla_Brant, 0.27317572
+51, 54, Phoenicopterus roseus_Greater Flamingo, 0.13866761
+51, 54, Mergus merganser_Common Merganser, 0.06643595
+51, 54, Fulica ardesiaca_Slate-colored Coot, 0.052986402
+51, 54, Mergus serrator_Red-breasted Merganser, 0.043152303
+54, 57, Anser caerulescens_Snow Goose, 0.12746264
+54, 57, Branta bernicla_Brant, 0.094269715
+54, 57, Dog_Dog, 0.054547254
+54, 57, Branta canadensis_Canada Goose, 0.046948083
+54, 57, Geothlypis trichas_Common Yellowthroat, 0.029769238
+57, 60, Branta sandvicensis_Hawaiian Goose, 0.038480073
+57, 60, Geothlypis trichas_Common Yellowthroat, 0.034870014
+57, 60, Branta canadensis_Canada Goose, 0.03312558
+57, 60, Cacatua galerita_Sulphur-crested Cockatoo, 0.032275595
+57, 60, Phoenicopterus roseus_Greater Flamingo, 0.0295896
+60, 63, Penelope obscura_Dusky-legged Guan, 0.059875544
+60, 63, Myiarchus tyrannulus_Brown-crested Flycatcher, 0.052747164
+60, 63, Phoenicopterus roseus_Greater Flamingo, 0.044091385
+60, 63, Bubulcus ibis_Cattle Egret, 0.030410657
+60, 63, Dog_Dog, 0.024270926
+63, 66, Phoenicopterus roseus_Greater Flamingo, 0.3475244
+63, 66, Alopochen aegyptiaca_Egyptian Goose, 0.087198
+63, 66, Ardea herodias_Great Blue Heron, 0.04530112
+63, 66, Cygnus buccinator_Trumpeter Swan, 0.033137113
+63, 66, Phalacrocorax carbo_Great Cormorant, 0.02775301
+66, 69, Branta canadensis_Canada Goose, 0.398202
+66, 69, Alopochen aegyptiaca_Egyptian Goose, 0.19494282
+66, 69, Cygnus cygnus_Whooper Swan, 0.16519134
+66, 69, Anser anser_Graylag Goose, 0.117889866
+66, 69, Phoenicopterus roseus_Greater Flamingo, 0.107579835
+69, 72, Branta canadensis_Canada Goose, 0.7777258
+69, 72, Alopochen aegyptiaca_Egyptian Goose, 0.31046697
+69, 72, Phoenicopterus roseus_Greater Flamingo, 0.06696447
+69, 72, Anser caerulescens_Snow Goose, 0.030633925
+69, 72, Phoenicopterus ruber_American Flamingo, 0.020995136
+72, 75, Phoenicopterus roseus_Greater Flamingo, 0.8217587
+72, 75, Phoeniconaias minor_Lesser Flamingo, 0.030883202
+72, 75, Phalacrocorax carbo_Great Cormorant, 0.028258229
+72, 75, Ardea herodias_Great Blue Heron, 0.016433172
+72, 75, Nannopterum brasilianum_Neotropic Cormorant, 0.012912406
+75, 78, Phoenicopterus roseus_Greater Flamingo, 0.9088373
+75, 78, Bubulcus ibis_Cattle Egret, 0.11704863
+75, 78, Ardea herodias_Great Blue Heron, 0.06815096
+75, 78, Phoeniconaias minor_Lesser Flamingo, 0.050385017
+75, 78, Ortalis columbiana_Colombian Chachalaca, 0.029551396
+78, 81, Phoenicopterus roseus_Greater Flamingo, 0.8432936
+78, 81, Cygnus cygnus_Whooper Swan, 0.054028515
+78, 81, Phoeniconaias minor_Lesser Flamingo, 0.02913665
+78, 81, Anser anser_Graylag Goose, 0.022655902
+78, 81, Phoenicopterus ruber_American Flamingo, 0.014563953
+81, 84, Cygnus cygnus_Whooper Swan, 0.55721134
+81, 84, Phoenicopterus roseus_Greater Flamingo, 0.08628913
+81, 84, Anser anser_Graylag Goose, 0.072795846
+81, 84, Branta canadensis_Canada Goose, 0.060935523
+81, 84, Anser fabalis_Taiga Bean-Goose, 0.04349611
+84, 87, Cygnus cygnus_Whooper Swan, 0.15178543
+84, 87, Phalacrocorax carbo_Great Cormorant, 0.03762134
+84, 87, Rallus limicola_Virginia Rail, 0.027116487
+84, 87, Nycticorax nycticorax_Black-crowned Night-Heron, 0.01580361
+84, 87, Anser anser_Graylag Goose, 0.0122981975

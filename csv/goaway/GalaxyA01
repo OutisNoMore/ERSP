@@ -1,0 +1,351 @@
+start_of_interval,end_of_interval,species,confidence
+0, 3, Human vocal_Human vocal, 0.22502352
+0, 3, Cygnus buccinator_Trumpeter Swan, 0.043878194
+0, 3, Dicaeum australe_Red-keeled Flowerpecker, 0.032926254
+0, 3, Colibri coruscans_Sparkling Violetear, 0.016181512
+0, 3, Cygnus columbianus_Tundra Swan, 0.015657967
+3, 6, Herpetotheres cachinnans_Laughing Falcon, 0.028958732
+3, 6, Pavo cristatus_Indian Peafowl, 0.023634413
+3, 6, Ocyceros griseus_Malabar Gray Hornbill, 0.021941029
+3, 6, Micrastur semitorquatus_Collared Forest-Falcon, 0.018117195
+3, 6, Psilopogon haemacephalus_Coppersmith Barbet, 0.016014585
+6, 9, Cygnus buccinator_Trumpeter Swan, 0.19008636
+6, 9, Tadorna ferruginea_Ruddy Shelduck, 0.024650034
+6, 9, Human vocal_Human vocal, 0.016626349
+6, 9, Cygnus columbianus_Tundra Swan, 0.01298474
+6, 9, Larus michahellis_Yellow-legged Gull, 0.009743623
+9, 12, Human vocal_Human vocal, 0.017273096
+9, 12, Tiaris olivaceus_Yellow-faced Grassquit, 0.014578495
+9, 12, Theristicus caudatus_Buff-necked Ibis, 0.01081802
+9, 12, Ptiloxena atroviolacea_Cuban Blackbird, 0.009892023
+9, 12, Melanerpes striatus_Hispaniolan Woodpecker, 0.009330283
+12, 15, Human vocal_Human vocal, 0.58132875
+12, 15, Engine_Engine, 0.040997826
+12, 15, Power tools_Power tools, 0.03543718
+12, 15, Dog_Dog, 0.015829917
+12, 15, Gun_Gun, 0.0114213
+15, 18, Glaucidium brasilianum_Ferruginous Pygmy-Owl, 0.06158241
+15, 18, Trogon viridis_Green-backed Trogon, 0.043671273
+15, 18, Cuculus micropterus_Indian Cuckoo, 0.042797282
+15, 18, Dendrocitta vagabunda_Rufous Treepie, 0.021504082
+15, 18, Gallus sonneratii_Gray Junglefowl, 0.020150708
+18, 21, Human vocal_Human vocal, 0.50169003
+18, 21, Pavo cristatus_Indian Peafowl, 0.0329992
+18, 21, Eudynamys scolopaceus_Asian Koel, 0.023315025
+18, 21, Human non-vocal_Human non-vocal, 0.021534465
+18, 21, Human whistle_Human whistle, 0.015817516
+21, 24, Oriolus kundoo_Indian Golden Oriole, 0.021990318
+21, 24, Psilopogon haemacephalus_Coppersmith Barbet, 0.018537331
+21, 24, Oriolus xanthornus_Black-hooded Oriole, 0.01845399
+21, 24, Pycnonotus cafer_Red-vented Bulbul, 0.015375156
+21, 24, Aegithina tiphia_Common Iora, 0.014150351
+24, 27, Human vocal_Human vocal, 0.12821442
+24, 27, Otus bakkamoena_Indian Scops-Owl, 0.08298281
+24, 27, Human non-vocal_Human non-vocal, 0.04448359
+24, 27, Cacomantis sonneratii_Banded Bay Cuckoo, 0.02576992
+24, 27, Myophonus horsfieldii_Malabar Whistling-Thrush, 0.014595877
+27, 30, Corvus brachyrhynchos_American Crow, 0.15181288
+27, 30, Strix varia_Barred Owl, 0.08132795
+27, 30, Coccyzus erythropthalmus_Black-billed Cuckoo, 0.034492165
+27, 30, Coccyzus americanus_Yellow-billed Cuckoo, 0.034344565
+27, 30, Cygnus columbianus_Tundra Swan, 0.02445758
+30, 33, Human vocal_Human vocal, 0.07769702
+30, 33, Gun_Gun, 0.023341767
+30, 33, Human whistle_Human whistle, 0.016860487
+30, 33, Psilopogon haemacephalus_Coppersmith Barbet, 0.01386312
+30, 33, Canis lupus_Gray Wolf, 0.012723409
+33, 36, Otus bakkamoena_Indian Scops-Owl, 0.016021524
+33, 36, Cracticus torquatus_Gray Butcherbird, 0.013737015
+33, 36, Gallus sonneratii_Gray Junglefowl, 0.010797308
+33, 36, Oriolus xanthornus_Black-hooded Oriole, 0.010360996
+33, 36, Dendrocitta vagabunda_Rufous Treepie, 0.010098492
+36, 39, Amazona auropalliata_Yellow-naped Parrot, 0.028001407
+36, 39, Psilopogon haemacephalus_Coppersmith Barbet, 0.023419376
+36, 39, Gallus sonneratii_Gray Junglefowl, 0.023175994
+36, 39, Cinnyris lotenius_Loten's Sunbird, 0.0194032
+36, 39, Oriolus kundoo_Indian Golden Oriole, 0.019320026
+39, 42, Power tools_Power tools, 0.033873726
+39, 42, Human vocal_Human vocal, 0.030417293
+39, 42, Engine_Engine, 0.027044222
+39, 42, Acridotheres tristis_Common Myna, 0.007055439
+39, 42, Coracina macei_Large Cuckooshrike, 0.005980296
+42, 45, Corvus brachyrhynchos_American Crow, 0.108094305
+42, 45, Corvus splendens_House Crow, 0.027340522
+42, 45, Corvus macrorhynchos_Large-billed Crow, 0.01570267
+42, 45, Pitta brachyura_Indian Pitta, 0.01481857
+42, 45, Oriolus kundoo_Indian Golden Oriole, 0.014456981
+45, 48, Zosterops palpebrosus_Indian White-eye, 0.03489076
+45, 48, Pycnonotus jocosus_Red-whiskered Bulbul, 0.025300225
+45, 48, Penelope purpurascens_Crested Guan, 0.014917178
+45, 48, Oriolus kundoo_Indian Golden Oriole, 0.014599053
+45, 48, Accipiter badius_Shikra, 0.013361225
+48, 51, Human vocal_Human vocal, 0.062437747
+48, 51, Oriolus xanthornus_Black-hooded Oriole, 0.024333484
+48, 51, Cinnyris asiaticus_Purple Sunbird, 0.016872307
+48, 51, Cinnyris lotenius_Loten's Sunbird, 0.013119036
+48, 51, Zosterops palpebrosus_Indian White-eye, 0.0108230775
+51, 54, Oriolus kundoo_Indian Golden Oriole, 0.056175526
+51, 54, Psilopogon haemacephalus_Coppersmith Barbet, 0.037984077
+51, 54, Hierococcyx varius_Common Hawk-Cuckoo, 0.026292123
+51, 54, Accipiter badius_Shikra, 0.024124332
+51, 54, Streptopelia chinensis_Spotted Dove, 0.022043584
+54, 57, Icterus cucullatus_Hooded Oriole, 0.3247038
+54, 57, Haemorhous mexicanus_House Finch, 0.07535486
+54, 57, Corvus brachyrhynchos_American Crow, 0.07529086
+54, 57, Human vocal_Human vocal, 0.041285414
+54, 57, Aplonis panayensis_Asian Glossy Starling, 0.020260898
+57, 60, Corvus brachyrhynchos_American Crow, 0.029095633
+57, 60, Megascops asio_Eastern Screech-Owl, 0.017762769
+57, 60, Strix aluco_Tawny Owl, 0.013147774
+57, 60, Melanospiza bicolor_Black-faced Grassquit, 0.012841726
+57, 60, Athene cunicularia_Burrowing Owl, 0.012201878
+60, 63, Sitta carolinensis_White-breasted Nuthatch, 0.26366267
+60, 63, Anas platyrhynchos_Mallard, 0.05596439
+60, 63, Corythaixoides leucogaster_White-bellied Go-away-bird, 0.04181081
+60, 63, Branta leucopsis_Barnacle Goose, 0.025527727
+60, 63, Melanerpes erythrocephalus_Red-headed Woodpecker, 0.022431662
+63, 66, Corythaixoides leucogaster_White-bellied Go-away-bird, 0.21970655
+63, 66, Nucifraga columbiana_Clark's Nutcracker, 0.031393506
+63, 66, Corvus ossifragus_Fish Crow, 0.024955478
+63, 66, Chiroxiphia linearis_Long-tailed Manakin, 0.012432254
+63, 66, Melanerpes erythrocephalus_Red-headed Woodpecker, 0.010270527
+66, 69, Corvus ossifragus_Fish Crow, 0.30929157
+66, 69, Nucifraga columbiana_Clark's Nutcracker, 0.06318368
+66, 69, Corythaixoides leucogaster_White-bellied Go-away-bird, 0.05666703
+66, 69, Porphyrio poliocephalus_Gray-headed Swamphen, 0.027975969
+66, 69, Melanerpes erythrocephalus_Red-headed Woodpecker, 0.02306709
+69, 72, Corvus ossifragus_Fish Crow, 0.617107
+69, 72, Corvus splendens_House Crow, 0.021106264
+69, 72, Pseudibis papillosa_Red-naped Ibis, 0.019929491
+69, 72, Nucifraga columbiana_Clark's Nutcracker, 0.015867148
+69, 72, Icteria virens_Yellow-breasted Chat, 0.011578285
+72, 75, Phalaenoptilus nuttallii_Common Poorwill, 0.035420146
+72, 75, Cygnus buccinator_Trumpeter Swan, 0.025623193
+72, 75, Tadorna ferruginea_Ruddy Shelduck, 0.024620518
+72, 75, Branta canadensis_Canada Goose, 0.013688995
+72, 75, Otus spilocephalus_Mountain Scops-Owl, 0.013626423
+75, 78, Corvus ossifragus_Fish Crow, 0.07032198
+75, 78, Corvus macrorhynchos_Large-billed Crow, 0.03748401
+75, 78, Pseudibis papillosa_Red-naped Ibis, 0.03180509
+75, 78, Tadorna ferruginea_Ruddy Shelduck, 0.026075516
+75, 78, Phalaenoptilus nuttallii_Common Poorwill, 0.024053631
+78, 81, Corvus macrorhynchos_Large-billed Crow, 0.017692333
+78, 81, Streptopelia decaocto_Eurasian Collared-Dove, 0.012893111
+78, 81, Canis lupus_Gray Wolf, 0.012581424
+78, 81, Columba livia_Rock Pigeon, 0.010255841
+78, 81, Corvus splendens_House Crow, 0.010146222
+81, 84, Human vocal_Human vocal, 0.053579494
+81, 84, Ardenna pacifica_Wedge-tailed Shearwater, 0.01947469
+81, 84, Canis lupus_Gray Wolf, 0.015195105
+81, 84, Ardenna carneipes_Flesh-footed Shearwater, 0.012458544
+81, 84, Nucifraga caryocatactes_Eurasian Nutcracker, 0.009334466
+84, 87, Pernis ptilorhynchus_Oriental Honey-buzzard, 0.035034455
+84, 87, Human vocal_Human vocal, 0.017684784
+84, 87, Oriolus kundoo_Indian Golden Oriole, 0.016544888
+84, 87, Psilopogon haemacephalus_Coppersmith Barbet, 0.012668582
+84, 87, Psittacula eupatria_Alexandrine Parakeet, 0.011923271
+87, 90, Cygnus buccinator_Trumpeter Swan, 0.020189365
+87, 90, Fireworks_Fireworks, 0.017315732
+87, 90, Bubo virginianus_Great Horned Owl, 0.014106973
+87, 90, Otus lettia_Collared Scops-Owl, 0.012462077
+87, 90, Otus bakkamoena_Indian Scops-Owl, 0.011485194
+90, 93, Phalaenoptilus nuttallii_Common Poorwill, 0.0838824
+90, 93, Otus scops_Eurasian Scops-Owl, 0.01815507
+90, 93, Aegolius acadicus_Northern Saw-whet Owl, 0.014826891
+90, 93, Spilornis cheela_Crested Serpent-Eagle, 0.008700759
+90, 93, Otus spilocephalus_Mountain Scops-Owl, 0.008553954
+93, 96, Zonotrichia leucophrys_White-crowned Sparrow, 0.057143662
+93, 96, Bombycilla cedrorum_Cedar Waxwing, 0.032574143
+93, 96, Regulus satrapa_Golden-crowned Kinglet, 0.023237439
+93, 96, Corvus brachyrhynchos_American Crow, 0.020195464
+93, 96, Junco hyemalis_Dark-eyed Junco, 0.015053937
+96, 99, Otus scops_Eurasian Scops-Owl, 0.046137173
+96, 99, Otus cyprius_Cyprus Scops-Owl, 0.013265302
+96, 99, Peucaea cassinii_Cassin's Sparrow, 0.01325262
+96, 99, Gymnorhina tibicen_Australian Magpie, 0.008782732
+96, 99, Oreortyx pictus_Mountain Quail, 0.0073664216
+99, 102, Cygnus buccinator_Trumpeter Swan, 0.015181184
+99, 102, Aegolius acadicus_Northern Saw-whet Owl, 0.010642676
+99, 102, Clangula hyemalis_Long-tailed Duck, 0.0070589473
+99, 102, Corvus macrorhynchos_Large-billed Crow, 0.0064911596
+99, 102, Canis lupus_Gray Wolf, 0.006053094
+102, 105, Anser caerulescens_Snow Goose, 0.034486398
+102, 105, Tadorna ferruginea_Ruddy Shelduck, 0.033503845
+102, 105, Branta canadensis_Canada Goose, 0.02230229
+102, 105, Fireworks_Fireworks, 0.017361544
+102, 105, Engine_Engine, 0.014208988
+105, 108, Amazona auropalliata_Yellow-naped Parrot, 0.029270187
+105, 108, Pernis ptilorhynchus_Oriental Honey-buzzard, 0.025968337
+105, 108, Amazona ochrocephala_Yellow-crowned Parrot, 0.01023484
+105, 108, Corvus macrorhynchos_Large-billed Crow, 0.0096316915
+105, 108, Corvus coronoides_Australian Raven, 0.0074866586
+108, 111, Engine_Engine, 0.039089046
+108, 111, Human vocal_Human vocal, 0.028490933
+108, 111, Pernis ptilorhynchus_Oriental Honey-buzzard, 0.020498103
+108, 111, Power tools_Power tools, 0.012829527
+108, 111, Dog_Dog, 0.011365898
+111, 114, Psilopogon haemacephalus_Coppersmith Barbet, 0.05650902
+111, 114, Amazona auropalliata_Yellow-naped Parrot, 0.030026464
+111, 114, Oriolus kundoo_Indian Golden Oriole, 0.024472322
+111, 114, Corvus splendens_House Crow, 0.02095113
+111, 114, Otus lettia_Collared Scops-Owl, 0.016674075
+114, 117, Dendrocitta vagabunda_Rufous Treepie, 0.074233435
+114, 117, Psilopogon haemacephalus_Coppersmith Barbet, 0.07104927
+114, 117, Psittacula eupatria_Alexandrine Parakeet, 0.06636114
+114, 117, Terpsiphone paradisi_Indian Paradise-Flycatcher, 0.030336425
+114, 117, Ocyceros birostris_Indian Gray Hornbill, 0.026936447
+117, 120, Ninox scutulata_Brown Boobook, 0.04861765
+117, 120, Procnias tricarunculatus_Three-wattled Bellbird, 0.037652895
+117, 120, Querula purpurata_Purple-throated Fruitcrow, 0.019067865
+117, 120, Human vocal_Human vocal, 0.016249022
+117, 120, Melopyrrha portoricensis_Puerto Rican Bullfinch, 0.014078736
+120, 123, Corvus splendens_House Crow, 0.054433767
+120, 123, Human vocal_Human vocal, 0.027315084
+120, 123, Accipiter badius_Shikra, 0.022346871
+120, 123, Oriolus kundoo_Indian Golden Oriole, 0.018429674
+120, 123, Acridotheres tristis_Common Myna, 0.017737396
+123, 126, Psilopogon haemacephalus_Coppersmith Barbet, 0.040520795
+123, 126, Psittacula eupatria_Alexandrine Parakeet, 0.033158187
+123, 126, Accipiter badius_Shikra, 0.029500412
+123, 126, Dendrocitta vagabunda_Rufous Treepie, 0.027323226
+123, 126, Oriolus kundoo_Indian Golden Oriole, 0.025215091
+126, 129, Human vocal_Human vocal, 0.3534221
+126, 129, Human non-vocal_Human non-vocal, 0.0110943355
+126, 129, Dog_Dog, 0.010680791
+126, 129, Power tools_Power tools, 0.010023824
+126, 129, Engine_Engine, 0.007259093
+129, 132, Human vocal_Human vocal, 0.34146643
+129, 132, Otus bakkamoena_Indian Scops-Owl, 0.023747401
+129, 132, Engine_Engine, 0.016215235
+129, 132, Power tools_Power tools, 0.011315851
+129, 132, Xiphorhynchus susurrans_Cocoa Woodcreeper, 0.009558523
+132, 135, Manacus candei_White-collared Manakin, 0.06037316
+132, 135, Psarocolius montezuma_Montezuma Oropendola, 0.044481404
+132, 135, Amazona auropalliata_Yellow-naped Parrot, 0.026143748
+132, 135, Megascops choliba_Tropical Screech-Owl, 0.019219333
+132, 135, Xiphorhynchus susurrans_Cocoa Woodcreeper, 0.017935233
+135, 138, Human vocal_Human vocal, 0.05572529
+135, 138, Dog_Dog, 0.02970274
+135, 138, Amaurornis moluccana_Pale-vented Bush-hen, 0.023377487
+135, 138, Centropus phasianinus_Pheasant Coucal, 0.01293412
+135, 138, Amazona auropalliata_Yellow-naped Parrot, 0.011558607
+138, 141, Human vocal_Human vocal, 0.0694436
+138, 141, Eudynamys scolopaceus_Asian Koel, 0.0582612
+138, 141, Oriolus kundoo_Indian Golden Oriole, 0.027004916
+138, 141, Acridotheres tristis_Common Myna, 0.017613892
+138, 141, Ocyceros birostris_Indian Gray Hornbill, 0.01518922
+141, 144, Human vocal_Human vocal, 0.32955658
+141, 144, Dog_Dog, 0.031051392
+141, 144, Herpetotheres cachinnans_Laughing Falcon, 0.026019301
+141, 144, Bostrychia hagedash_Hadada Ibis, 0.016956132
+141, 144, Tadorna ferruginea_Ruddy Shelduck, 0.01633868
+144, 147, Human vocal_Human vocal, 0.38215622
+144, 147, Engine_Engine, 0.029174639
+144, 147, Human whistle_Human whistle, 0.0058024824
+144, 147, Human non-vocal_Human non-vocal, 0.005016609
+144, 147, Power tools_Power tools, 0.004456149
+147, 150, Human vocal_Human vocal, 0.3311844
+147, 150, Psilopogon haemacephalus_Coppersmith Barbet, 0.01677741
+147, 150, Cinnyris asiaticus_Purple Sunbird, 0.011098375
+147, 150, Engine_Engine, 0.007693987
+147, 150, Psittacula eupatria_Alexandrine Parakeet, 0.007156742
+150, 153, Human non-vocal_Human non-vocal, 0.04316744
+150, 153, Power tools_Power tools, 0.03979036
+150, 153, Phoenicurus fuliginosus_Plumbeous Redstart, 0.027460463
+150, 153, Human vocal_Human vocal, 0.026604991
+150, 153, Engine_Engine, 0.017298514
+153, 156, Human vocal_Human vocal, 0.23247111
+153, 156, Copsychus malabaricus_White-rumped Shama, 0.015096531
+153, 156, Oriolus kundoo_Indian Golden Oriole, 0.0121970335
+153, 156, Dog_Dog, 0.009548859
+153, 156, Dendrocitta formosae_Gray Treepie, 0.008851403
+156, 159, Human vocal_Human vocal, 0.080588885
+156, 159, Ptiloxena atroviolacea_Cuban Blackbird, 0.024179783
+156, 159, Pernis ptilorhynchus_Oriental Honey-buzzard, 0.020870613
+156, 159, Corvus macrorhynchos_Large-billed Crow, 0.017748399
+156, 159, Tadorna ferruginea_Ruddy Shelduck, 0.013715603
+159, 162, Human vocal_Human vocal, 0.4350846
+159, 162, Psittacula eupatria_Alexandrine Parakeet, 0.013725553
+159, 162, Larus michahellis_Yellow-legged Gull, 0.013066197
+159, 162, Psittacula krameri_Rose-ringed Parakeet, 0.0075820154
+159, 162, Strix varia_Barred Owl, 0.0075717536
+162, 165, Human vocal_Human vocal, 0.35104796
+162, 165, Engine_Engine, 0.117335126
+162, 165, Power tools_Power tools, 0.10511626
+162, 165, Human non-vocal_Human non-vocal, 0.056587618
+162, 165, Monticola cinclorhyncha_Blue-capped Rock-Thrush, 0.046232212
+165, 168, Human vocal_Human vocal, 0.6696077
+165, 168, Power tools_Power tools, 0.06362742
+165, 168, Engine_Engine, 0.05725906
+165, 168, Human non-vocal_Human non-vocal, 0.017985966
+165, 168, Otus bakkamoena_Indian Scops-Owl, 0.013213299
+168, 171, Human vocal_Human vocal, 0.51702714
+168, 171, Power tools_Power tools, 0.023575354
+168, 171, Engine_Engine, 0.022221392
+168, 171, Otus bakkamoena_Indian Scops-Owl, 0.0043678866
+168, 171, Fireworks_Fireworks, 0.0039749667
+171, 174, Human vocal_Human vocal, 0.50505805
+171, 174, Engine_Engine, 0.0244072
+171, 174, Power tools_Power tools, 0.01988971
+171, 174, Human non-vocal_Human non-vocal, 0.013263687
+171, 174, Dog_Dog, 0.009042616
+174, 177, Human vocal_Human vocal, 0.54145104
+174, 177, Human non-vocal_Human non-vocal, 0.03515012
+174, 177, Engine_Engine, 0.033063583
+174, 177, Power tools_Power tools, 0.022444103
+174, 177, Oriolus xanthornus_Black-hooded Oriole, 0.018317737
+177, 180, Human vocal_Human vocal, 0.3643422
+177, 180, Oriolus xanthornus_Black-hooded Oriole, 0.021937054
+177, 180, Psilopogon haemacephalus_Coppersmith Barbet, 0.013940142
+177, 180, Dendrocitta formosae_Gray Treepie, 0.013843727
+177, 180, Dendrocitta vagabunda_Rufous Treepie, 0.013719512
+180, 183, Human vocal_Human vocal, 0.66613346
+180, 183, Human non-vocal_Human non-vocal, 0.06460007
+180, 183, Power tools_Power tools, 0.019930912
+180, 183, Engine_Engine, 0.013582527
+180, 183, Human whistle_Human whistle, 0.011314965
+183, 186, Human non-vocal_Human non-vocal, 0.18372485
+183, 186, Human vocal_Human vocal, 0.10496341
+183, 186, Oriolus kundoo_Indian Golden Oriole, 0.03746178
+183, 186, Dendrocitta vagabunda_Rufous Treepie, 0.023638595
+183, 186, Oriolus xanthornus_Black-hooded Oriole, 0.021614818
+186, 189, Human vocal_Human vocal, 0.065605536
+186, 189, Otus bakkamoena_Indian Scops-Owl, 0.01922671
+186, 189, Oriolus xanthornus_Black-hooded Oriole, 0.019136965
+186, 189, Otus lettia_Collared Scops-Owl, 0.015514168
+186, 189, Gallus sonneratii_Gray Junglefowl, 0.0151837785
+189, 192, Human vocal_Human vocal, 0.5134527
+189, 192, Human non-vocal_Human non-vocal, 0.021056157
+189, 192, Psittacula eupatria_Alexandrine Parakeet, 0.015047597
+189, 192, Gracula indica_Southern Hill Myna, 0.012557579
+189, 192, Dog_Dog, 0.012053564
+192, 195, Human vocal_Human vocal, 0.15862699
+192, 195, Human non-vocal_Human non-vocal, 0.062920086
+192, 195, Psittacula eupatria_Alexandrine Parakeet, 0.030246936
+192, 195, Oriolus kundoo_Indian Golden Oriole, 0.02158697
+192, 195, Ninox scutulata_Brown Boobook, 0.016069705
+195, 198, Pitta brachyura_Indian Pitta, 0.049203884
+195, 198, Horornis canturians_Manchurian Bush Warbler, 0.031790763
+195, 198, Spilornis cheela_Crested Serpent-Eagle, 0.021540036
+195, 198, Gallus sonneratii_Gray Junglefowl, 0.019904984
+195, 198, Horornis fortipes_Brownish-flanked Bush Warbler, 0.019176738
+198, 201, Human vocal_Human vocal, 0.1163147
+198, 201, Gallus sonneratii_Gray Junglefowl, 0.059896123
+198, 201, Columba livia_Rock Pigeon, 0.01962348
+198, 201, Corvus macrorhynchos_Large-billed Crow, 0.011263424
+198, 201, Amazona auropalliata_Yellow-naped Parrot, 0.0098683685
+201, 204, Human vocal_Human vocal, 0.39183182
+201, 204, Corvus splendens_House Crow, 0.017090252
+201, 204, Dendrocitta vagabunda_Rufous Treepie, 0.01534393
+201, 204, Otus bakkamoena_Indian Scops-Owl, 0.014846692
+201, 204, Engine_Engine, 0.01023671
+204, 207, Human vocal_Human vocal, 0.56574816
+204, 207, Coereba flaveola_Bananaquit, 0.02551537
+204, 207, Engine_Engine, 0.02373489
+204, 207, Nesospingus speculiferus_Puerto Rican Tanager, 0.0115534
+204, 207, Tachyphonus delatrii_Tawny-crested Tanager, 0.011331326
+207, 210, Human vocal_Human vocal, 0.49787977
+207, 210, Otus bakkamoena_Indian Scops-Owl, 0.03900042
+207, 210, Zosterops palpebrosus_Indian White-eye, 0.018042283
+207, 210, Cacomantis sonneratii_Banded Bay Cuckoo, 0.017581552
+207, 210, Pitta brachyura_Indian Pitta, 0.013110501

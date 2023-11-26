@@ -1,0 +1,276 @@
+start_of_interval,end_of_interval,species,confidence
+0, 3, Falco columbarius_Merlin, 0.0333852
+0, 3, Zenaida macroura_Mourning Dove, 0.026730947
+0, 3, Contopus virens_Eastern Wood-Pewee, 0.022517506
+0, 3, Turdus migratorius_American Robin, 0.016951712
+0, 3, Baeolophus inornatus_Oak Titmouse, 0.016293174
+3, 6, Archilochus colubris_Ruby-throated Hummingbird, 0.05773832
+3, 6, Archilochus alexandri_Black-chinned Hummingbird, 0.01595034
+3, 6, Sialia mexicana_Western Bluebird, 0.013417917
+3, 6, Spinus pinus_Pine Siskin, 0.012524358
+3, 6, Cacomantis merulinus_Plaintive Cuckoo, 0.010253338
+6, 9, Carduelis carduelis_European Goldfinch, 0.07851274
+6, 9, Acanthiza chrysorrhoa_Yellow-rumped Thornbill, 0.042375606
+6, 9, Troglodytes hiemalis_Winter Wren, 0.022698095
+6, 9, Rhipidura albiscapa_Gray Fantail, 0.016004512
+6, 9, Rhipidura rufifrons_Rufous Fantail, 0.010549633
+9, 12, Curaeus curaeus_Austral Blackbird, 0.11476582
+9, 12, Momotus momota_Amazonian Motmot, 0.029545413
+9, 12, Sitta pusilla_Brown-headed Nuthatch, 0.025628319
+9, 12, Cranioleuca vulpecula_Parker's Spinetail, 0.025550144
+9, 12, Argya striata_Jungle Babbler, 0.02136169
+12, 15, Carduelis carduelis_European Goldfinch, 0.91118824
+12, 15, Thripadectes holostictus_Striped Treehunter, 0.21261403
+12, 15, Prunella modularis_Dunnock, 0.06364795
+12, 15, Phoenicurus ochruros_Black Redstart, 0.038115095
+12, 15, Terpsiphone viridis_African Paradise-Flycatcher, 0.030647188
+15, 18, Spinus pinus_Pine Siskin, 0.1296119
+15, 18, Spinus barbatus_Black-chinned Siskin, 0.09051599
+15, 18, Cyanocitta stelleri_Steller's Jay, 0.08058962
+15, 18, Linaria cannabina_Eurasian Linnet, 0.051815107
+15, 18, Sialia mexicana_Western Bluebird, 0.049754474
+18, 21, Carduelis carduelis_European Goldfinch, 0.38365662
+18, 21, Automolus ochrolaemus_Buff-throated Foliage-gleaner, 0.051509477
+18, 21, Hemitriccus orbitatus_Eye-ringed Tody-Tyrant, 0.030403094
+18, 21, Rhipidura leucophrys_Willie-wagtail, 0.016790645
+18, 21, Campylorhamphus trochilirostris_Red-billed Scythebill, 0.014990015
+21, 24, Drymophila squamata_Scaled Antbird, 0.09417243
+21, 24, Haliaeetus leucocephalus_Bald Eagle, 0.036510848
+21, 24, Buteo lineatus_Red-shouldered Hawk, 0.025043579
+21, 24, Camptostoma obsoletum_Southern Beardless-Tyrannulet, 0.020651529
+21, 24, Spinus tristis_American Goldfinch, 0.017535679
+24, 27, Carduelis carduelis_European Goldfinch, 0.95086634
+24, 27, Blythipicus rubiginosus_Maroon Woodpecker, 0.082389645
+24, 27, Thripadectes holostictus_Striped Treehunter, 0.027670687
+24, 27, Archilochus colubris_Ruby-throated Hummingbird, 0.01838637
+24, 27, Spinus tristis_American Goldfinch, 0.014744399
+27, 30, Sialia mexicana_Western Bluebird, 0.059401132
+27, 30, Curaeus curaeus_Austral Blackbird, 0.059111185
+27, 30, Baeolophus inornatus_Oak Titmouse, 0.05666411
+27, 30, Prosthemadera novaeseelandiae_Tui, 0.0410996
+27, 30, Spinus barbatus_Black-chinned Siskin, 0.033805817
+30, 33, Carduelis carduelis_European Goldfinch, 0.937104
+30, 33, Cardellina canadensis_Canada Warbler, 0.023388136
+30, 33, Notopholia corusca_Black-bellied Starling, 0.012032725
+30, 33, Rhipidura albiscapa_Gray Fantail, 0.011483619
+30, 33, Troglodytes rufociliatus_Rufous-browed Wren, 0.010147438
+33, 36, Haemorhous mexicanus_House Finch, 0.014425728
+33, 36, Turdus falcklandii_Austral Thrush, 0.012843086
+33, 36, Turdus migratorius_American Robin, 0.011845115
+33, 36, Piranga ludoviciana_Western Tanager, 0.010462084
+33, 36, Passer domesticus_House Sparrow, 0.010072242
+36, 39, Carduelis carduelis_European Goldfinch, 0.9881295
+36, 39, Spinus lawrencei_Lawrence's Goldfinch, 0.01938365
+36, 39, Spinus tristis_American Goldfinch, 0.017359925
+36, 39, Acanthiza chrysorrhoa_Yellow-rumped Thornbill, 0.0033885979
+36, 39, Rhipidura albiscapa_Gray Fantail, 0.0031962227
+39, 42, Rhipidura leucophrys_Willie-wagtail, 0.3502994
+39, 42, Carduelis carduelis_European Goldfinch, 0.11593657
+39, 42, Rhipidura albiscapa_Gray Fantail, 0.054810535
+39, 42, Gerygone igata_Gray Gerygone, 0.039617073
+39, 42, Acanthorhynchus tenuirostris_Eastern Spinebill, 0.023521304
+42, 45, Carduelis carduelis_European Goldfinch, 0.9806572
+42, 45, Prunella modularis_Dunnock, 0.08288955
+42, 45, Cardellina canadensis_Canada Warbler, 0.048139468
+42, 45, Spinus tristis_American Goldfinch, 0.009033482
+42, 45, Phoenicurus ochruros_Black Redstart, 0.00588135
+45, 48, Carduelis carduelis_European Goldfinch, 0.9711131
+45, 48, Spinus tristis_American Goldfinch, 0.021634648
+45, 48, Euphonia affinis_Scrub Euphonia, 0.01451054
+45, 48, Prunella modularis_Dunnock, 0.013269423
+45, 48, Rhipidura albiscapa_Gray Fantail, 0.012324214
+48, 51, Carduelis carduelis_European Goldfinch, 0.094505526
+48, 51, Troglodytes troglodytes_Eurasian Wren, 0.066808924
+48, 51, Cardellina canadensis_Canada Warbler, 0.02681078
+48, 51, Troglodytes hiemalis_Winter Wren, 0.025787128
+48, 51, Leiothlypis ruficapilla_Nashville Warbler, 0.021805981
+51, 54, Corvus cornix_Hooded Crow, 0.09720884
+51, 54, Pica pica_Eurasian Magpie, 0.05957504
+51, 54, Acrocephalus australis_Australian Reed Warbler, 0.037925158
+51, 54, Acridotheres tristis_Common Myna, 0.03397656
+51, 54, Corvus mellori_Little Raven, 0.032414835
+54, 57, Prosthemadera novaeseelandiae_Tui, 0.06074305
+54, 57, Otus scops_Eurasian Scops-Owl, 0.054712288
+54, 57, Glaucidium passerinum_Eurasian Pygmy-Owl, 0.021044757
+54, 57, Gymnorhina tibicen_Australian Magpie, 0.02072366
+54, 57, Chlorophonia callophrys_Golden-browed Chlorophonia, 0.019807365
+57, 60, Petroica pusilla_Pacific Robin, 0.119822174
+57, 60, Spinus lawrencei_Lawrence's Goldfinch, 0.060390573
+57, 60, Ocyphaps lophotes_Crested Pigeon, 0.02804781
+57, 60, Carduelis carduelis_European Goldfinch, 0.0242064
+57, 60, Dendrocygna arcuata_Wandering Whistling-Duck, 0.020622924
+60, 63, Euphagus carolinus_Rusty Blackbird, 0.23999092
+60, 63, Curaeus curaeus_Austral Blackbird, 0.06540198
+60, 63, Spinus lawrencei_Lawrence's Goldfinch, 0.042453658
+60, 63, Sitta pygmaea_Pygmy Nuthatch, 0.025504138
+60, 63, Haliaeetus leucocephalus_Bald Eagle, 0.023519246
+63, 66, Calypte anna_Anna's Hummingbird, 0.021021806
+63, 66, Melanerpes carolinus_Red-bellied Woodpecker, 0.015099361
+63, 66, Setophaga striata_Blackpoll Warbler, 0.0110535305
+63, 66, Junco hyemalis_Dark-eyed Junco, 0.009637538
+63, 66, Selasphorus platycercus_Broad-tailed Hummingbird, 0.009180052
+66, 69, Myornis senilis_Ash-colored Tapaculo, 0.09124238
+66, 69, Leptopogon superciliaris_Slaty-capped Flycatcher, 0.087051496
+66, 69, Thripadectes rufobrunneus_Streak-breasted Treehunter, 0.038441915
+66, 69, Clibanornis dendrocolaptoides_Canebrake Groundcreeper, 0.038294103
+66, 69, Synallaxis brachyura_Slaty Spinetail, 0.036021683
+69, 72, Engine_Engine, 0.017881595
+69, 72, Accipiter cooperii_Cooper's Hawk, 0.017559847
+69, 72, Phrygilus gayi_Gray-hooded Sierra Finch, 0.008936595
+69, 72, Elaenia albiceps_White-crested Elaenia, 0.008277784
+69, 72, Calypte anna_Anna's Hummingbird, 0.007629603
+72, 75, Prosthemadera novaeseelandiae_Tui, 0.09883551
+72, 75, Anthochaera carunculata_Red Wattlebird, 0.0937837
+72, 75, Cyanocitta cristata_Blue Jay, 0.04026188
+72, 75, Quiscalus quiscula_Common Grackle, 0.03535203
+72, 75, Corvus mellori_Little Raven, 0.03316424
+75, 78, Myiopsitta monachus_Monk Parakeet, 0.026007371
+75, 78, Corvus mellori_Little Raven, 0.022882013
+75, 78, Amazona viridigenalis_Red-crowned Parrot, 0.022481116
+75, 78, Callocephalon fimbriatum_Gang-gang Cockatoo, 0.02059866
+75, 78, Amazona auropalliata_Yellow-naped Parrot, 0.019961542
+78, 81, Lanius ludovicianus_Loggerhead Shrike, 0.099256575
+78, 81, Quiscalus mexicanus_Great-tailed Grackle, 0.08582904
+78, 81, Quiscalus niger_Greater Antillean Grackle, 0.061400253
+78, 81, Aplonis panayensis_Asian Glossy Starling, 0.042184804
+78, 81, Platycercus elegans_Crimson Rosella, 0.027817814
+81, 84, Platycercus eximius_Eastern Rosella, 0.17807493
+81, 84, Rhipidura fuliginosa_New Zealand Fantail, 0.028370146
+81, 84, Dendrocopos major_Great Spotted Woodpecker, 0.028361643
+81, 84, Turdus philomelos_Song Thrush, 0.02823397
+81, 84, Zonotrichia capensis_Rufous-collared Sparrow, 0.026063517
+84, 87, Sitta pygmaea_Pygmy Nuthatch, 0.026879681
+84, 87, Quiscalus mexicanus_Great-tailed Grackle, 0.02398976
+84, 87, Dryobates nuttallii_Nuttall's Woodpecker, 0.021040307
+84, 87, Lonchura punctulata_Scaly-breasted Munia, 0.016564243
+84, 87, Dryobates pubescens_Downy Woodpecker, 0.0138690015
+87, 90, Uria aalge_Common Murre, 0.037564926
+87, 90, Larus fuscus_Lesser Black-backed Gull, 0.03326707
+87, 90, Larus delawarensis_Ring-billed Gull, 0.031313524
+87, 90, Larus dominicanus_Kelp Gull, 0.02970955
+87, 90, Larus michahellis_Yellow-legged Gull, 0.027716087
+90, 93, Prosthemadera novaeseelandiae_Tui, 0.025224598
+90, 93, Spinus barbatus_Black-chinned Siskin, 0.015702803
+90, 93, Sicalis flaveola_Saffron Finch, 0.0139230965
+90, 93, Amazona autumnalis_Red-lored Parrot, 0.010520074
+90, 93, Elaenia albiceps_White-crested Elaenia, 0.010154429
+93, 96, Zenaida auriculata_Eared Dove, 0.04374401
+93, 96, Columba livia_Rock Pigeon, 0.035240818
+93, 96, Curaeus curaeus_Austral Blackbird, 0.033898227
+93, 96, Hirundo neoxena_Welcome Swallow, 0.028359199
+93, 96, Ocyphaps lophotes_Crested Pigeon, 0.023325354
+96, 99, Sitta canadensis_Red-breasted Nuthatch, 0.4089579
+96, 99, Sitta carolinensis_White-breasted Nuthatch, 0.038503926
+96, 99, Cyanocitta stelleri_Steller's Jay, 0.014473921
+96, 99, Acrocephalus scirpaceus_Eurasian Reed Warbler, 0.012692503
+96, 99, Myiopsitta monachus_Monk Parakeet, 0.012469456
+99, 102, Strix aluco_Tawny Owl, 0.07131334
+99, 102, Psarocolius montezuma_Montezuma Oropendola, 0.058747135
+99, 102, Aix sponsa_Wood Duck, 0.05262405
+99, 102, Amazona albifrons_White-fronted Parrot, 0.029179588
+99, 102, Quiscalus mexicanus_Great-tailed Grackle, 0.02512538
+102, 105, Calypte anna_Anna's Hummingbird, 0.008568075
+102, 105, Spizella passerina_Chipping Sparrow, 0.0059961253
+102, 105, Engine_Engine, 0.0059556914
+102, 105, Passer domesticus_House Sparrow, 0.0056065847
+102, 105, Anas crecca_Green-winged Teal, 0.0054784794
+105, 108, Atalotriccus pilaris_Pale-eyed Pygmy-Tyrant, 0.6079285
+105, 108, Hemitriccus diops_Drab-breasted Pygmy-Tyrant, 0.024959441
+105, 108, Accipiter striatus_Sharp-shinned Hawk, 0.010822343
+105, 108, Zosterops simplex_Swinhoe's White-eye, 0.00999753
+105, 108, Mackenziaena severa_Tufted Antshrike, 0.006876134
+108, 111, Manorina melanophrys_Bell Miner, 0.1372361
+108, 111, Streptopelia chinensis_Spotted Dove, 0.032339558
+108, 111, Prosthemadera novaeseelandiae_Tui, 0.029380858
+108, 111, Momotus aequatorialis_Andean Motmot, 0.026161728
+108, 111, Centropus bengalensis_Lesser Coucal, 0.024543172
+111, 114, Zonotrichia atricapilla_Golden-crowned Sparrow, 0.04602763
+111, 114, Spinus barbatus_Black-chinned Siskin, 0.021506425
+111, 114, Carduelis carduelis_European Goldfinch, 0.017660992
+111, 114, Spinus psaltria_Lesser Goldfinch, 0.016576955
+111, 114, Spizelloides arborea_American Tree Sparrow, 0.01641992
+114, 117, Diglossa albilatera_White-sided Flowerpiercer, 0.004914767
+114, 117, Engine_Engine, 0.0045743505
+114, 117, Fireworks_Fireworks, 0.0039492426
+114, 117, Ochthoeca cinnamomeiventris_Slaty-backed Chat-Tyrant, 0.003944221
+114, 117, Xiphocolaptes promeropirhynchus_Strong-billed Woodcreeper, 0.0031045692
+117, 120, Engine_Engine, 0.00681244
+117, 120, Human vocal_Human vocal, 0.0042059748
+117, 120, Fireworks_Fireworks, 0.003351981
+117, 120, Bubo virginianus_Great Horned Owl, 0.0033031867
+117, 120, Power tools_Power tools, 0.0031659189
+120, 123, Engine_Engine, 0.00681244
+120, 123, Human vocal_Human vocal, 0.0042059748
+120, 123, Fireworks_Fireworks, 0.003351981
+120, 123, Bubo virginianus_Great Horned Owl, 0.0033031867
+120, 123, Power tools_Power tools, 0.0031659189
+123, 126, Engine_Engine, 0.00681244
+123, 126, Human vocal_Human vocal, 0.0042059748
+123, 126, Fireworks_Fireworks, 0.003351981
+123, 126, Bubo virginianus_Great Horned Owl, 0.0033031867
+123, 126, Power tools_Power tools, 0.0031659189
+126, 129, Engine_Engine, 0.00681244
+126, 129, Human vocal_Human vocal, 0.0042059748
+126, 129, Fireworks_Fireworks, 0.003351981
+126, 129, Bubo virginianus_Great Horned Owl, 0.0033031867
+126, 129, Power tools_Power tools, 0.0031659189
+129, 132, Engine_Engine, 0.00681244
+129, 132, Human vocal_Human vocal, 0.0042059748
+129, 132, Fireworks_Fireworks, 0.003351981
+129, 132, Bubo virginianus_Great Horned Owl, 0.0033031867
+129, 132, Power tools_Power tools, 0.0031659189
+132, 135, Cyanocorax caeruleus_Azure Jay, 0.074671455
+132, 135, Anthropoides virgo_Demoiselle Crane, 0.025170533
+132, 135, Pelecanus occidentalis_Brown Pelican, 0.023289517
+132, 135, Gymnorhina tibicen_Australian Magpie, 0.021494728
+132, 135, Corvus monedula_Eurasian Jackdaw, 0.01912425
+135, 138, Porphyrio melanotus_Australasian Swamphen, 0.14020054
+135, 138, Pyrrhocorax pyrrhocorax_Red-billed Chough, 0.12588315
+135, 138, Leptotila verreauxi_White-tipped Dove, 0.059760164
+135, 138, Calocitta colliei_Black-throated Magpie-Jay, 0.027476998
+135, 138, Anser erythropus_Lesser White-fronted Goose, 0.02298637
+138, 141, Porphyrio melanotus_Australasian Swamphen, 0.7687726
+138, 141, Eudynamys orientalis_Pacific Koel, 0.05151791
+138, 141, Cracticus torquatus_Gray Butcherbird, 0.046280757
+138, 141, Theristicus caudatus_Buff-necked Ibis, 0.039027266
+138, 141, Prosthemadera novaeseelandiae_Tui, 0.018243816
+141, 144, Curaeus curaeus_Austral Blackbird, 0.047881592
+141, 144, Pampa curvipennis_Wedge-tailed Sabrewing, 0.02901973
+141, 144, Archilochus colubris_Ruby-throated Hummingbird, 0.020432457
+141, 144, Dryobates pubescens_Downy Woodpecker, 0.017797645
+141, 144, Patagona gigas_Giant Hummingbird, 0.013347089
+144, 147, Human vocal_Human vocal, 0.15848492
+144, 147, Engine_Engine, 0.14023766
+144, 147, Human non-vocal_Human non-vocal, 0.057720773
+144, 147, Calypte anna_Anna's Hummingbird, 0.032163814
+144, 147, Power tools_Power tools, 0.031103361
+147, 150, Curaeus curaeus_Austral Blackbird, 0.051174242
+147, 150, Polioptila californica_California Gnatcatcher, 0.04752828
+147, 150, Quiscalus quiscula_Common Grackle, 0.03389572
+147, 150, Aphelocoma californica_California Scrub-Jay, 0.025964802
+147, 150, Icterus abeillei_Black-backed Oriole, 0.022139685
+150, 153, Strix varia_Barred Owl, 0.021595264
+150, 153, Human vocal_Human vocal, 0.020860871
+150, 153, Columba livia_Rock Pigeon, 0.018795969
+150, 153, Streptopelia decaocto_Eurasian Collared-Dove, 0.01851261
+150, 153, Lanius borealis_Northern Shrike, 0.013645478
+153, 156, Curaeus curaeus_Austral Blackbird, 0.047998354
+153, 156, Acridotheres tristis_Common Myna, 0.01533181
+153, 156, Falco peregrinus_Peregrine Falcon, 0.014451479
+153, 156, Cygnus buccinator_Trumpeter Swan, 0.014127241
+153, 156, Vanellus indicus_Red-wattled Lapwing, 0.01094256
+156, 159, Curaeus curaeus_Austral Blackbird, 0.18824257
+156, 159, Argya striata_Jungle Babbler, 0.042058073
+156, 159, Falco columbarius_Merlin, 0.032820936
+156, 159, Sylviorthorhynchus desmursii_Des Murs's Wiretail, 0.030276552
+156, 159, Alisterus scapularis_Australian King-Parrot, 0.027910464
+159, 162, Platycercus eximius_Eastern Rosella, 0.076938875
+159, 162, Poodytes gramineus_Little Grassbird, 0.052693415
+159, 162, Manorina melanophrys_Bell Miner, 0.048884697
+159, 162, Quiscalus niger_Greater Antillean Grackle, 0.042579986
+159, 162, Pachycephala olivacea_Olive Whistler, 0.032084674
+162, 165, Human non-vocal_Human non-vocal, 0.115302384
+162, 165, Engine_Engine, 0.0499628
+162, 165, Human vocal_Human vocal, 0.04822004
+162, 165, Scudderia curvicauda_Curve-tailed Bush Katydid, 0.028552271
+162, 165, Power tools_Power tools, 0.020048106

@@ -1,0 +1,86 @@
+start_of_interval,end_of_interval,species,confidence
+48, 51, Human vocal_Human vocal, 0.14642113
+48, 51, Tadorna ferruginea_Ruddy Shelduck, 0.11346891
+48, 51, Dog_Dog, 0.033044215
+48, 51, Canis lupus_Gray Wolf, 0.020158129
+48, 51, Uria aalge_Common Murre, 0.014836402
+51, 54, Paraclaravis mondetoura_Maroon-chested Ground Dove, 0.03268435
+51, 54, Coereba flaveola_Bananaquit, 0.018788096
+51, 54, Human vocal_Human vocal, 0.013886679
+51, 54, Momotus lessonii_Lesson's Motmot, 0.0137377195
+51, 54, Quiscalus lugubris_Carib Grackle, 0.0105046425
+54, 57, Pipilo erythrophthalmus_Eastern Towhee, 0.28597963
+54, 57, Corvus brachyrhynchos_American Crow, 0.07153278
+54, 57, Human vocal_Human vocal, 0.048684612
+54, 57, Icterus cucullatus_Hooded Oriole, 0.038972482
+54, 57, Coccyzus americanus_Yellow-billed Cuckoo, 0.026677852
+57, 60, Cygnus buccinator_Trumpeter Swan, 0.07591959
+57, 60, Human vocal_Human vocal, 0.021537384
+57, 60, Engine_Engine, 0.010296908
+57, 60, Ara militaris_Military Macaw, 0.006478883
+57, 60, Larus michahellis_Yellow-legged Gull, 0.005003609
+60, 63, Corythaixoides leucogaster_White-bellied Go-away-bird, 0.9173175
+60, 63, Corvus orru_Torresian Crow, 0.25936773
+60, 63, Corvus mellori_Little Raven, 0.028992118
+60, 63, Branta leucopsis_Barnacle Goose, 0.019195506
+60, 63, Phyllastrephus terrestris_Terrestrial Brownbul, 0.015301274
+63, 66, Corythaixoides leucogaster_White-bellied Go-away-bird, 0.95936054
+63, 66, Corvus cornix_Hooded Crow, 0.1435947
+63, 66, Corvus corone_Carrion Crow, 0.028040674
+63, 66, Corvus mellori_Little Raven, 0.009289185
+63, 66, Corvus ossifragus_Fish Crow, 0.007649091
+66, 69, Corythaixoides leucogaster_White-bellied Go-away-bird, 0.46151644
+66, 69, Corvus ossifragus_Fish Crow, 0.07148723
+66, 69, Corvus splendens_House Crow, 0.03744821
+66, 69, Corvus brachyrhynchos_American Crow, 0.03133258
+66, 69, Corvus cornix_Hooded Crow, 0.031218512
+69, 72, Corythaixoides leucogaster_White-bellied Go-away-bird, 0.5032702
+69, 72, Corvus ossifragus_Fish Crow, 0.124025
+69, 72, Corvus splendens_House Crow, 0.035522867
+69, 72, Corvus cornix_Hooded Crow, 0.020563379
+69, 72, Human vocal_Human vocal, 0.019612169
+72, 75, Human vocal_Human vocal, 0.6053441
+72, 75, Tadorna ferruginea_Ruddy Shelduck, 0.05819277
+72, 75, Engine_Engine, 0.034644052
+72, 75, Dog_Dog, 0.012759157
+72, 75, Dendrocitta vagabunda_Rufous Treepie, 0.008243868
+75, 78, Human vocal_Human vocal, 0.6527524
+75, 78, Engine_Engine, 0.008128311
+75, 78, Cygnus buccinator_Trumpeter Swan, 0.006862702
+75, 78, Ardenna grisea_Sooty Shearwater, 0.002819592
+75, 78, Dog_Dog, 0.0023916308
+78, 81, Human vocal_Human vocal, 0.55944663
+78, 81, Gun_Gun, 0.031911682
+78, 81, Human whistle_Human whistle, 0.029845051
+78, 81, Engine_Engine, 0.027213624
+78, 81, Dog_Dog, 0.00849613
+81, 84, Human vocal_Human vocal, 0.2178598
+81, 84, Engine_Engine, 0.04419492
+81, 84, Canis lupus_Gray Wolf, 0.02072375
+81, 84, Dog_Dog, 0.00984762
+81, 84, Siren_Siren, 0.0071501276
+84, 87, Streptopelia decaocto_Eurasian Collared-Dove, 0.17853254
+84, 87, Human vocal_Human vocal, 0.093586914
+84, 87, Canis lupus_Gray Wolf, 0.03232228
+84, 87, Cygnus columbianus_Tundra Swan, 0.02162148
+84, 87, Psittacula eupatria_Alexandrine Parakeet, 0.012478172
+87, 90, Setophaga petechia_Yellow Warbler, 0.3068245
+87, 90, Setophaga pensylvanica_Chestnut-sided Warbler, 0.08750587
+87, 90, Empidonax minimus_Least Flycatcher, 0.05386703
+87, 90, Empidonax traillii_Willow Flycatcher, 0.04682482
+87, 90, Setophaga ruticilla_American Redstart, 0.034415293
+90, 93, Psilopogon haemacephalus_Coppersmith Barbet, 0.027727662
+90, 93, Corvus ossifragus_Fish Crow, 0.017420067
+90, 93, Corvus macrorhynchos_Large-billed Crow, 0.016870076
+90, 93, Oriolus xanthornus_Black-hooded Oriole, 0.011022108
+90, 93, Pseudibis papillosa_Red-naped Ibis, 0.010731264
+93, 96, Human vocal_Human vocal, 0.053360008
+93, 96, Engine_Engine, 0.045082424
+93, 96, Dog_Dog, 0.021537941
+93, 96, Power tools_Power tools, 0.010291088
+93, 96, Corvus splendens_House Crow, 0.008170712
+96, 99, Human vocal_Human vocal, 0.091376364
+96, 99, Engine_Engine, 0.04235746
+96, 99, Branta canadensis_Canada Goose, 0.017170262
+96, 99, Gun_Gun, 0.015955087
+96, 99, Canis lupus_Gray Wolf, 0.014009843

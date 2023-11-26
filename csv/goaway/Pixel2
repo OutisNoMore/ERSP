@@ -1,0 +1,91 @@
+start_of_interval,end_of_interval,species,confidence
+48, 51, Human vocal_Human vocal, 0.06070243
+48, 51, Geothlypis philadelphia_Mourning Warbler, 0.017440483
+48, 51, Merops bullockoides_White-fronted Bee-eater, 0.010655034
+48, 51, Dog_Dog, 0.0100078145
+48, 51, Oporornis agilis_Connecticut Warbler, 0.009831829
+51, 54, Coccyzus americanus_Yellow-billed Cuckoo, 0.120387
+51, 54, Coccyzus erythropthalmus_Black-billed Cuckoo, 0.033755545
+51, 54, Zenaida asiatica_White-winged Dove, 0.013907995
+51, 54, Elaenia martinica_Caribbean Elaenia, 0.011199708
+51, 54, Zentrygon lawrencii_Purplish-backed Quail-Dove, 0.011051962
+54, 57, Corvus brachyrhynchos_American Crow, 0.10272553
+54, 57, Larus marinus_Great Black-backed Gull, 0.041570485
+54, 57, Haemorhous mexicanus_House Finch, 0.038036663
+54, 57, Empidonax alnorum_Alder Flycatcher, 0.025007866
+54, 57, Cygnus buccinator_Trumpeter Swan, 0.020581344
+57, 60, Cygnus buccinator_Trumpeter Swan, 0.1721531
+57, 60, Sitta carolinensis_White-breasted Nuthatch, 0.110809825
+57, 60, Cygnus columbianus_Tundra Swan, 0.062288173
+57, 60, Anas crecca_Green-winged Teal, 0.060889043
+57, 60, Buteo lineatus_Red-shouldered Hawk, 0.02957299
+60, 63, Corythaixoides leucogaster_White-bellied Go-away-bird, 0.74450177
+60, 63, Branta leucopsis_Barnacle Goose, 0.08715527
+60, 63, Corvus orru_Torresian Crow, 0.028537542
+60, 63, Clangula hyemalis_Long-tailed Duck, 0.022439547
+60, 63, Campylorhynchus rufinucha_Rufous-naped Wren, 0.017937837
+63, 66, Corythaixoides leucogaster_White-bellied Go-away-bird, 0.9472465
+63, 66, Corvus cornix_Hooded Crow, 0.043450892
+63, 66, Corvus orru_Torresian Crow, 0.028553052
+63, 66, Corvus ossifragus_Fish Crow, 0.016219823
+63, 66, Corvus mellori_Little Raven, 0.006219238
+66, 69, Corythaixoides leucogaster_White-bellied Go-away-bird, 0.47255623
+66, 69, Corvus cornix_Hooded Crow, 0.050611686
+66, 69, Corvus ossifragus_Fish Crow, 0.039466888
+66, 69, Porphyrio poliocephalus_Gray-headed Swamphen, 0.03557367
+66, 69, Corvus corone_Carrion Crow, 0.030995745
+69, 72, Corvus ossifragus_Fish Crow, 0.48829505
+69, 72, Setophaga petechia_Yellow Warbler, 0.12178301
+69, 72, Corythaixoides leucogaster_White-bellied Go-away-bird, 0.0751448
+69, 72, Corvus orru_Torresian Crow, 0.020255117
+69, 72, Icteria virens_Yellow-breasted Chat, 0.009410794
+72, 75, Human vocal_Human vocal, 0.15317316
+72, 75, Engine_Engine, 0.028134298
+72, 75, Cygnus buccinator_Trumpeter Swan, 0.009592268
+72, 75, Pernis ptilorhynchus_Oriental Honey-buzzard, 0.00850722
+72, 75, Tadorna ferruginea_Ruddy Shelduck, 0.007456104
+75, 78, Human vocal_Human vocal, 0.14295052
+75, 78, Porphyrio porphyrio_Western Swamphen, 0.019574312
+75, 78, Tadorna ferruginea_Ruddy Shelduck, 0.009561318
+75, 78, Rissa tridactyla_Black-legged Kittiwake, 0.0070782346
+75, 78, Cygnus buccinator_Trumpeter Swan, 0.00706224
+78, 81, Human vocal_Human vocal, 0.2838595
+78, 81, Dog_Dog, 0.017312178
+78, 81, Canis lupus_Gray Wolf, 0.017084468
+78, 81, Engine_Engine, 0.013720635
+78, 81, Corvus corone_Carrion Crow, 0.007236137
+81, 84, Ardenna pacifica_Wedge-tailed Shearwater, 0.018348847
+81, 84, Human vocal_Human vocal, 0.016865624
+81, 84, Pernis ptilorhynchus_Oriental Honey-buzzard, 0.013129436
+81, 84, Dendrocitta vagabunda_Rufous Treepie, 0.012679823
+81, 84, Nucifraga caryocatactes_Eurasian Nutcracker, 0.009013036
+84, 87, Human vocal_Human vocal, 0.13903499
+84, 87, Cygnus buccinator_Trumpeter Swan, 0.014177737
+84, 87, Rissa tridactyla_Black-legged Kittiwake, 0.0049654692
+84, 87, Pernis ptilorhynchus_Oriental Honey-buzzard, 0.004372125
+84, 87, Branta canadensis_Canada Goose, 0.0031634308
+87, 90, Setophaga petechia_Yellow Warbler, 0.10943122
+87, 90, Coccyzus erythropthalmus_Black-billed Cuckoo, 0.09158675
+87, 90, Setophaga pensylvanica_Chestnut-sided Warbler, 0.08093334
+87, 90, Oporornis agilis_Connecticut Warbler, 0.043564174
+87, 90, Icterus spurius_Orchard Oriole, 0.04071904
+90, 93, Human vocal_Human vocal, 0.015218135
+90, 93, Buteo platypterus_Broad-winged Hawk, 0.0067097684
+90, 93, Corvus ossifragus_Fish Crow, 0.00661293
+90, 93, Contopus virens_Eastern Wood-Pewee, 0.0065097073
+90, 93, Engine_Engine, 0.0060202396
+93, 96, Human vocal_Human vocal, 0.03986315
+93, 96, Engine_Engine, 0.016036099
+93, 96, Melozone crissalis_California Towhee, 0.012903505
+93, 96, Buteo platypterus_Broad-winged Hawk, 0.011905785
+93, 96, Prosthemadera novaeseelandiae_Tui, 0.011041205
+96, 99, Human vocal_Human vocal, 0.048352886
+96, 99, Plegadis chihi_White-faced Ibis, 0.045657832
+96, 99, Phaethon rubricauda_Red-tailed Tropicbird, 0.025230402
+96, 99, Engine_Engine, 0.020156344
+96, 99, Dog_Dog, 0.017714597
+99, 102, Human vocal_Human vocal, 0.026945021
+99, 102, Branta canadensis_Canada Goose, 0.0205979
+99, 102, Iole propinqua_Gray-eyed Bulbul, 0.011581188
+99, 102, Oriolus oriolus_Eurasian Golden Oriole, 0.011083151
+99, 102, Circus aeruginosus_Eurasian Marsh-Harrier, 0.010574135

@@ -1,0 +1,351 @@
+start_of_interval,end_of_interval,species,confidence
+0, 3, Fireworks_Fireworks, 0.06886468
+0, 3, Engine_Engine, 0.05547033
+0, 3, Gun_Gun, 0.051819198
+0, 3, Human vocal_Human vocal, 0.043654844
+0, 3, Power tools_Power tools, 0.023972286
+3, 6, Cygnus columbianus_Tundra Swan, 0.09839973
+3, 6, Human non-vocal_Human non-vocal, 0.07025889
+3, 6, Human vocal_Human vocal, 0.033006623
+3, 6, Tadorna ferruginea_Ruddy Shelduck, 0.029486421
+3, 6, Gallinula galeata_Common Gallinule, 0.023093851
+6, 9, Human vocal_Human vocal, 0.43443146
+6, 9, Human non-vocal_Human non-vocal, 0.067288056
+6, 9, Dog_Dog, 0.05161823
+6, 9, Cygnus buccinator_Trumpeter Swan, 0.03149474
+6, 9, Cygnus columbianus_Tundra Swan, 0.012395238
+9, 12, Human vocal_Human vocal, 0.019144898
+9, 12, Spilornis cheela_Crested Serpent-Eagle, 0.009531539
+9, 12, Oriolus chinensis_Black-naped Oriole, 0.0075006746
+9, 12, Gracula religiosa_Common Hill Myna, 0.0071650813
+9, 12, Cacomantis merulinus_Plaintive Cuckoo, 0.006050779
+12, 15, Human vocal_Human vocal, 0.06953496
+12, 15, Cygnus buccinator_Trumpeter Swan, 0.042623766
+12, 15, Dendrocitta vagabunda_Rufous Treepie, 0.01793206
+12, 15, Tadorna ferruginea_Ruddy Shelduck, 0.011816978
+12, 15, Athene brama_Spotted Owlet, 0.010887339
+15, 18, Gallus sonneratii_Gray Junglefowl, 0.009699733
+15, 18, Engine_Engine, 0.009331751
+15, 18, Human vocal_Human vocal, 0.009172647
+15, 18, Power tools_Power tools, 0.009084754
+15, 18, Cacomantis sonneratii_Banded Bay Cuckoo, 0.0070925956
+18, 21, Cuculus micropterus_Indian Cuckoo, 0.13582544
+18, 21, Human vocal_Human vocal, 0.1336129
+18, 21, Pavo cristatus_Indian Peafowl, 0.10568349
+18, 21, Human whistle_Human whistle, 0.08364668
+18, 21, Fireworks_Fireworks, 0.0779374
+21, 24, Mimus gilvus_Tropical Mockingbird, 0.009821292
+21, 24, Colinus cristatus_Crested Bobwhite, 0.008747729
+21, 24, Ptiloxena atroviolacea_Cuban Blackbird, 0.008217742
+21, 24, Spilornis cheela_Crested Serpent-Eagle, 0.008187933
+21, 24, Patagioenas corensis_Bare-eyed Pigeon, 0.007940754
+24, 27, Human vocal_Human vocal, 0.058328524
+24, 27, Spilornis cheela_Crested Serpent-Eagle, 0.014029855
+24, 27, Human non-vocal_Human non-vocal, 0.013608041
+24, 27, Power tools_Power tools, 0.011677321
+24, 27, Dog_Dog, 0.011396146
+27, 30, Human non-vocal_Human non-vocal, 0.014488327
+27, 30, Penelope obscura_Dusky-legged Guan, 0.011550166
+27, 30, Amazona auropalliata_Yellow-naped Parrot, 0.009404421
+27, 30, Uria aalge_Common Murre, 0.008413801
+27, 30, Saltator striatipectus_Streaked Saltator, 0.0074271387
+30, 33, Dryobates borealis_Red-cockaded Woodpecker, 0.024365945
+30, 33, Philemon corniculatus_Noisy Friarbird, 0.017551508
+30, 33, Elaenia albiceps_White-crested Elaenia, 0.01706431
+30, 33, Tyrannus vociferans_Cassin's Kingbird, 0.015479009
+30, 33, Caligavis chrysops_Yellow-faced Honeyeater, 0.013564331
+33, 36, Otus bakkamoena_Indian Scops-Owl, 0.019882461
+33, 36, Oriolus chinensis_Black-naped Oriole, 0.018507088
+33, 36, Cacomantis merulinus_Plaintive Cuckoo, 0.00859188
+33, 36, Otus scops_Eurasian Scops-Owl, 0.008100608
+33, 36, Psophodes olivaceus_Eastern Whipbird, 0.0063833017
+36, 39, Aramides cajaneus_Gray-cowled Wood-Rail, 0.0106166145
+36, 39, Elaenia albiceps_White-crested Elaenia, 0.006576017
+36, 39, Psilopogon haemacephalus_Coppersmith Barbet, 0.0054267864
+36, 39, Athene noctua_Little Owl, 0.005017211
+36, 39, Platycercus eximius_Eastern Rosella, 0.004787282
+39, 42, Corvus brachyrhynchos_American Crow, 0.049886625
+39, 42, Accipiter cooperii_Cooper's Hawk, 0.02945564
+39, 42, Human vocal_Human vocal, 0.018208219
+39, 42, Engine_Engine, 0.014643151
+39, 42, Cygnus buccinator_Trumpeter Swan, 0.009660061
+42, 45, Penelope obscura_Dusky-legged Guan, 0.03745959
+42, 45, Dog_Dog, 0.03607546
+42, 45, Meleagris gallopavo_Wild Turkey, 0.035555456
+42, 45, Engine_Engine, 0.023158351
+42, 45, Bubo bubo_Eurasian Eagle-Owl, 0.017913444
+45, 48, Pycnonotus sinensis_Light-vented Bulbul, 0.03203497
+45, 48, Horornis fortipes_Brownish-flanked Bush Warbler, 0.012382187
+45, 48, Gracula religiosa_Common Hill Myna, 0.011303922
+45, 48, Pycnonotus jocosus_Red-whiskered Bulbul, 0.011050175
+45, 48, Coccothraustes vespertinus_Evening Grosbeak, 0.010832833
+48, 51, Human vocal_Human vocal, 0.062098954
+48, 51, Engine_Engine, 0.0073624584
+48, 51, Otus bakkamoena_Indian Scops-Owl, 0.004232164
+48, 51, Oriolus chinensis_Black-naped Oriole, 0.0041149873
+48, 51, Power tools_Power tools, 0.00371754
+51, 54, Power tools_Power tools, 0.038994167
+51, 54, Engine_Engine, 0.032576617
+51, 54, Human vocal_Human vocal, 0.03196456
+51, 54, Human non-vocal_Human non-vocal, 0.027680246
+51, 54, Corvus coronoides_Australian Raven, 0.015216077
+54, 57, Haemorhous mexicanus_House Finch, 0.13215595
+54, 57, Turdus falcklandii_Austral Thrush, 0.05120568
+54, 57, Melanerpes formicivorus_Acorn Woodpecker, 0.051012192
+54, 57, Artamus leucorynchus_White-breasted Woodswallow, 0.037004095
+54, 57, Icterus cucullatus_Hooded Oriole, 0.029071309
+57, 60, Pica pica_Eurasian Magpie, 0.044846177
+57, 60, Human vocal_Human vocal, 0.035535637
+57, 60, Prosthemadera novaeseelandiae_Tui, 0.031147622
+57, 60, Quiscalus quiscula_Common Grackle, 0.022921253
+57, 60, Dendrocitta vagabunda_Rufous Treepie, 0.018980261
+60, 63, Corythaixoides leucogaster_White-bellied Go-away-bird, 0.5921725
+60, 63, Corvus orru_Torresian Crow, 0.18622664
+60, 63, Corvus mellori_Little Raven, 0.07780477
+60, 63, Eudynamys orientalis_Pacific Koel, 0.010214775
+60, 63, Anser indicus_Bar-headed Goose, 0.0069752075
+63, 66, Corythaixoides leucogaster_White-bellied Go-away-bird, 0.2728742
+63, 66, Corvus orru_Torresian Crow, 0.12525547
+63, 66, Corvus ossifragus_Fish Crow, 0.03352926
+63, 66, Corvus mellori_Little Raven, 0.020269752
+63, 66, Corvus brachyrhynchos_American Crow, 0.007571431
+66, 69, Setophaga petechia_Yellow Warbler, 0.1975882
+66, 69, Corvus ossifragus_Fish Crow, 0.19081339
+66, 69, Corvus brachyrhynchos_American Crow, 0.06092068
+66, 69, Corythaixoides leucogaster_White-bellied Go-away-bird, 0.023297854
+66, 69, Nucifraga columbiana_Clark's Nutcracker, 0.014170648
+69, 72, Corvus ossifragus_Fish Crow, 0.4764954
+69, 72, Corythaixoides leucogaster_White-bellied Go-away-bird, 0.06780431
+69, 72, Corvus cornix_Hooded Crow, 0.06496708
+69, 72, Corvus orru_Torresian Crow, 0.05863331
+69, 72, Corvus brachyrhynchos_American Crow, 0.024076018
+72, 75, Human vocal_Human vocal, 0.36464912
+72, 75, Tadorna ferruginea_Ruddy Shelduck, 0.029332425
+72, 75, Canis lupus_Gray Wolf, 0.016547324
+72, 75, Engine_Engine, 0.011743627
+72, 75, Acridotheres tristis_Common Myna, 0.0073122177
+75, 78, Human vocal_Human vocal, 0.50537777
+75, 78, Engine_Engine, 0.028854268
+75, 78, Power tools_Power tools, 0.013249845
+75, 78, Dog_Dog, 0.0075521786
+75, 78, Siren_Siren, 0.0075147017
+78, 81, Human vocal_Human vocal, 0.13670868
+78, 81, Canis lupus_Gray Wolf, 0.015279528
+78, 81, Larus michahellis_Yellow-legged Gull, 0.011799841
+78, 81, Turdus falcklandii_Austral Thrush, 0.010823139
+78, 81, Streptopelia decaocto_Eurasian Collared-Dove, 0.010725571
+81, 84, Human vocal_Human vocal, 0.12650663
+81, 84, Dendrocitta vagabunda_Rufous Treepie, 0.01336362
+81, 84, Asio otus_Long-eared Owl, 0.011968251
+81, 84, Columba palumbus_Common Wood-Pigeon, 0.011682693
+81, 84, Streptopelia decaocto_Eurasian Collared-Dove, 0.011658685
+84, 87, Cygnus columbianus_Tundra Swan, 0.15589797
+84, 87, Human vocal_Human vocal, 0.05015286
+84, 87, Streptopelia senegalensis_Laughing Dove, 0.040080763
+84, 87, Strix varia_Barred Owl, 0.027976435
+84, 87, Cygnus buccinator_Trumpeter Swan, 0.018744899
+87, 90, Setophaga petechia_Yellow Warbler, 0.07019871
+87, 90, Setophaga pensylvanica_Chestnut-sided Warbler, 0.0420521
+87, 90, Setophaga ruticilla_American Redstart, 0.033665374
+87, 90, Geothlypis philadelphia_Mourning Warbler, 0.024594974
+87, 90, Geothlypis tolmiei_MacGillivray's Warbler, 0.023513608
+90, 93, Human vocal_Human vocal, 0.053387616
+90, 93, Power tools_Power tools, 0.020588888
+90, 93, Engine_Engine, 0.013367795
+90, 93, Oriolus chinensis_Black-naped Oriole, 0.011199402
+90, 93, Accipiter virgatus_Besra, 0.009374515
+93, 96, Human non-vocal_Human non-vocal, 0.011786776
+93, 96, Power tools_Power tools, 0.011574498
+93, 96, Engine_Engine, 0.011420051
+93, 96, Plegadis chihi_White-faced Ibis, 0.008262247
+93, 96, Sylviorthorhynchus desmursii_Des Murs's Wiretail, 0.0056823413
+96, 99, Human non-vocal_Human non-vocal, 0.023941718
+96, 99, Otus scops_Eurasian Scops-Owl, 0.011771645
+96, 99, Human vocal_Human vocal, 0.01163517
+96, 99, Gallus sonneratii_Gray Junglefowl, 0.010037053
+96, 99, Oriolus chinensis_Black-naped Oriole, 0.008141977
+99, 102, Human vocal_Human vocal, 0.102452844
+99, 102, Asio otus_Long-eared Owl, 0.041385513
+99, 102, Asio flammeus_Short-eared Owl, 0.033309635
+99, 102, Bubo bubo_Eurasian Eagle-Owl, 0.025904085
+99, 102, Bubo virginianus_Great Horned Owl, 0.024254726
+102, 105, Human vocal_Human vocal, 0.17130052
+102, 105, Engine_Engine, 0.024658736
+102, 105, Power tools_Power tools, 0.013687443
+102, 105, Tadorna ferruginea_Ruddy Shelduck, 0.006009327
+102, 105, Otus bakkamoena_Indian Scops-Owl, 0.0058675325
+105, 108, Thamnophilus caerulescens_Variable Antshrike, 0.06823274
+105, 108, Ichthyaetus melanocephalus_Mediterranean Gull, 0.036176704
+105, 108, Human vocal_Human vocal, 0.03240549
+105, 108, Tadorna ferruginea_Ruddy Shelduck, 0.0141394725
+105, 108, Corvus splendens_House Crow, 0.013302084
+108, 111, Human vocal_Human vocal, 0.020020382
+108, 111, Strix aluco_Tawny Owl, 0.01233326
+108, 111, Larus michahellis_Yellow-legged Gull, 0.011207553
+108, 111, Psittacula krameri_Rose-ringed Parakeet, 0.008410142
+108, 111, Dog_Dog, 0.008333338
+111, 114, Turdus falcklandii_Austral Thrush, 0.04122051
+111, 114, Elaenia albiceps_White-crested Elaenia, 0.022004833
+111, 114, Phrygilus gayi_Gray-hooded Sierra Finch, 0.01020338
+111, 114, Curaeus curaeus_Austral Blackbird, 0.009771429
+111, 114, Nothoprocta perdicaria_Chilean Tinamou, 0.009358635
+114, 117, Human vocal_Human vocal, 0.06062719
+114, 117, Amazona auropalliata_Yellow-naped Parrot, 0.014384465
+114, 117, Larus michahellis_Yellow-legged Gull, 0.012454139
+114, 117, Ardenna grisea_Sooty Shearwater, 0.012158459
+114, 117, Anhima cornuta_Horned Screamer, 0.009014877
+117, 120, Engine_Engine, 0.08114536
+117, 120, Human vocal_Human vocal, 0.062876195
+117, 120, Power tools_Power tools, 0.031096378
+117, 120, Human non-vocal_Human non-vocal, 0.008382546
+117, 120, Ninox scutulata_Brown Boobook, 0.008371467
+120, 123, Human vocal_Human vocal, 0.14081436
+120, 123, Tadorna ferruginea_Ruddy Shelduck, 0.10294558
+120, 123, Engine_Engine, 0.03823062
+120, 123, Larus michahellis_Yellow-legged Gull, 0.022011474
+120, 123, Corvus splendens_House Crow, 0.019135404
+123, 126, Human vocal_Human vocal, 0.0640162
+123, 126, Dog_Dog, 0.010021595
+123, 126, Jynx torquilla_Eurasian Wryneck, 0.00949006
+123, 126, Leptasthenura aegithaloides_Plain-mantled Tit-Spinetail, 0.008971479
+123, 126, Asio otus_Long-eared Owl, 0.008969354
+126, 129, Human vocal_Human vocal, 0.20639585
+126, 129, Canis lupus_Gray Wolf, 0.013057634
+126, 129, Dog_Dog, 0.009305884
+126, 129, Strix nivicolum_Himalayan Owl, 0.0057542142
+126, 129, Curaeus curaeus_Austral Blackbird, 0.005533624
+129, 132, Human vocal_Human vocal, 0.44780132
+129, 132, Engine_Engine, 0.013290211
+129, 132, Dog_Dog, 0.010041167
+129, 132, Human whistle_Human whistle, 0.008876363
+129, 132, Human non-vocal_Human non-vocal, 0.007412063
+132, 135, Human vocal_Human vocal, 0.06053247
+132, 135, Dog_Dog, 0.029301466
+132, 135, Canis lupus_Gray Wolf, 0.012667979
+132, 135, Curaeus curaeus_Austral Blackbird, 0.012558626
+132, 135, Athene noctua_Little Owl, 0.011743737
+135, 138, Canis latrans_Coyote, 0.02217491
+135, 138, Penelope obscura_Dusky-legged Guan, 0.01963806
+135, 138, Cygnus columbianus_Tundra Swan, 0.014239068
+135, 138, Corvus mellori_Little Raven, 0.013117529
+135, 138, Curaeus curaeus_Austral Blackbird, 0.0107831275
+138, 141, Human vocal_Human vocal, 0.17438151
+138, 141, Human non-vocal_Human non-vocal, 0.032940615
+138, 141, Engine_Engine, 0.01780032
+138, 141, Power tools_Power tools, 0.011332395
+138, 141, Eudynamys scolopaceus_Asian Koel, 0.0095063895
+141, 144, Human vocal_Human vocal, 0.06537578
+141, 144, Tadorna ferruginea_Ruddy Shelduck, 0.019245407
+141, 144, Spinus magellanicus_Hooded Siskin, 0.014777554
+141, 144, Spinus barbatus_Black-chinned Siskin, 0.012999385
+141, 144, Curaeus curaeus_Austral Blackbird, 0.012176805
+144, 147, Larus michahellis_Yellow-legged Gull, 0.066128194
+144, 147, Human vocal_Human vocal, 0.058027238
+144, 147, Strix varia_Barred Owl, 0.047911588
+144, 147, Human non-vocal_Human non-vocal, 0.021816535
+144, 147, Fireworks_Fireworks, 0.015267379
+147, 150, Human vocal_Human vocal, 0.06811908
+147, 150, Power tools_Power tools, 0.011951601
+147, 150, Engine_Engine, 0.0114946775
+147, 150, Dendrocitta vagabunda_Rufous Treepie, 0.0055428552
+147, 150, Horornis fortipes_Brownish-flanked Bush Warbler, 0.004412769
+150, 153, Engine_Engine, 0.074987866
+150, 153, Human vocal_Human vocal, 0.06388821
+150, 153, Fireworks_Fireworks, 0.039956488
+150, 153, Power tools_Power tools, 0.02782621
+150, 153, Ocyceros griseus_Malabar Gray Hornbill, 0.018107409
+153, 156, Campephilus magellanicus_Magellanic Woodpecker, 0.028541144
+153, 156, Gallus sonneratii_Gray Junglefowl, 0.018407997
+153, 156, Human vocal_Human vocal, 0.01471756
+153, 156, Cygnus buccinator_Trumpeter Swan, 0.014421288
+153, 156, Strix nivicolum_Himalayan Owl, 0.011493886
+156, 159, Curaeus curaeus_Austral Blackbird, 0.07332894
+156, 159, Human vocal_Human vocal, 0.023143712
+156, 159, Ptiloxena atroviolacea_Cuban Blackbird, 0.012511225
+156, 159, Argya malcolmi_Large Gray Babbler, 0.011452876
+156, 159, Nothoprocta perdicaria_Chilean Tinamou, 0.0092335185
+159, 162, Human vocal_Human vocal, 0.16285793
+159, 162, Curaeus curaeus_Austral Blackbird, 0.015971888
+159, 162, Buceros bicornis_Great Hornbill, 0.014624731
+159, 162, Gracula indica_Southern Hill Myna, 0.013970751
+159, 162, Dicrurus macrocercus_Black Drongo, 0.009226747
+162, 165, Hypergerus atriceps_Oriole Warbler, 0.42524686
+162, 165, Copsychus mindanensis_Philippine Magpie-Robin, 0.21851984
+162, 165, Turdus fuscater_Great Thrush, 0.10514024
+162, 165, Eophona personata_Japanese Grosbeak, 0.06781626
+162, 165, Garrulax canorus_Chinese Hwamei, 0.061204184
+165, 168, Porzana carolina_Sora, 0.07341473
+165, 168, Scytalopus fuscus_Dusky Tapaculo, 0.049948577
+165, 168, Vireo vicinior_Gray Vireo, 0.03150918
+165, 168, Athene noctua_Little Owl, 0.026066665
+165, 168, Synallaxis cherriei_Chestnut-throated Spinetail, 0.017334217
+168, 171, Human vocal_Human vocal, 0.07583084
+168, 171, Engine_Engine, 0.0130691
+168, 171, Oriolus chinensis_Black-naped Oriole, 0.009370752
+168, 171, Cygnus buccinator_Trumpeter Swan, 0.009058294
+168, 171, Power tools_Power tools, 0.0071248617
+171, 174, Human vocal_Human vocal, 0.16418132
+171, 174, Engine_Engine, 0.026557285
+171, 174, Power tools_Power tools, 0.011636826
+171, 174, Sylviorthorhynchus desmursii_Des Murs's Wiretail, 0.007662988
+171, 174, Oriolus chinensis_Black-naped Oriole, 0.007456697
+174, 177, Human vocal_Human vocal, 0.08526568
+174, 177, Anhima cornuta_Horned Screamer, 0.01689716
+174, 177, Human non-vocal_Human non-vocal, 0.009668372
+174, 177, Engine_Engine, 0.008436902
+174, 177, Ptiloxena atroviolacea_Cuban Blackbird, 0.0067404835
+177, 180, Cygnus buccinator_Trumpeter Swan, 0.15111808
+177, 180, Human vocal_Human vocal, 0.1413702
+177, 180, Psilopogon haemacephalus_Coppersmith Barbet, 0.010048227
+177, 180, Dendrocitta vagabunda_Rufous Treepie, 0.008847723
+177, 180, Tadorna ferruginea_Ruddy Shelduck, 0.007834963
+180, 183, Human vocal_Human vocal, 0.1567472
+180, 183, Human non-vocal_Human non-vocal, 0.014753975
+180, 183, Curaeus curaeus_Austral Blackbird, 0.013466204
+180, 183, Power tools_Power tools, 0.012141272
+180, 183, Oriolus chinensis_Black-naped Oriole, 0.0102129625
+183, 186, Human vocal_Human vocal, 0.033892483
+183, 186, Coccyzus erythropthalmus_Black-billed Cuckoo, 0.015627598
+183, 186, Cygnus columbianus_Tundra Swan, 0.013702657
+183, 186, Buceros bicornis_Great Hornbill, 0.013632583
+183, 186, Engine_Engine, 0.012512486
+186, 189, Human vocal_Human vocal, 0.12827744
+186, 189, Psaltriparus minimus_Bushtit, 0.016415454
+186, 189, Calypte costae_Costa's Hummingbird, 0.011980183
+186, 189, Phrygilus patagonicus_Patagonian Sierra Finch, 0.011036281
+186, 189, Human non-vocal_Human non-vocal, 0.010725004
+189, 192, Cygnus columbianus_Tundra Swan, 0.19964017
+189, 192, Human vocal_Human vocal, 0.04154606
+189, 192, Canis lupus_Gray Wolf, 0.015362507
+189, 192, Asio otus_Long-eared Owl, 0.013007456
+189, 192, Cuculus optatus_Oriental Cuckoo, 0.010390825
+192, 195, Human vocal_Human vocal, 0.18895523
+192, 195, Engine_Engine, 0.024788424
+192, 195, Cygnus buccinator_Trumpeter Swan, 0.019229358
+192, 195, Dog_Dog, 0.014134894
+192, 195, Cygnus cygnus_Whooper Swan, 0.011880787
+195, 198, Human vocal_Human vocal, 0.011605482
+195, 198, Ptiloxena atroviolacea_Cuban Blackbird, 0.008223433
+195, 198, Oriolus chinensis_Black-naped Oriole, 0.00808405
+195, 198, Cacomantis merulinus_Plaintive Cuckoo, 0.0070218123
+195, 198, Nothoprocta perdicaria_Chilean Tinamou, 0.007012539
+198, 201, Human vocal_Human vocal, 0.018246802
+198, 201, Oriolus chinensis_Black-naped Oriole, 0.010913255
+198, 201, Power tools_Power tools, 0.0074075074
+198, 201, Picoides arcticus_Black-backed Woodpecker, 0.006313458
+198, 201, Spilornis cheela_Crested Serpent-Eagle, 0.0056794193
+201, 204, Human vocal_Human vocal, 0.14220546
+201, 204, Human whistle_Human whistle, 0.030083122
+201, 204, Human non-vocal_Human non-vocal, 0.023517461
+201, 204, Otus scops_Eurasian Scops-Owl, 0.010043424
+201, 204, Dog_Dog, 0.007880441
+204, 207, Human vocal_Human vocal, 0.13266513
+204, 207, Lipaugus unirufus_Rufous Piha, 0.012125595
+204, 207, Power tools_Power tools, 0.0057855733
+204, 207, Engine_Engine, 0.0057329205
+204, 207, Electron platyrhynchum_Broad-billed Motmot, 0.0056856507
+207, 210, Human vocal_Human vocal, 0.049355395
+207, 210, Cygnus buccinator_Trumpeter Swan, 0.037150633
+207, 210, Puffinus nativitatis_Christmas Shearwater, 0.03386663
+207, 210, Buceros bicornis_Great Hornbill, 0.011427655
+207, 210, Chloephaga picta_Upland Goose, 0.009850452

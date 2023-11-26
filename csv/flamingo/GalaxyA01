@@ -1,0 +1,151 @@
+start_of_interval,end_of_interval,species,confidence
+0, 3, Phoenicopterus roseus_Greater Flamingo, 0.57069355
+0, 3, Anser anser_Graylag Goose, 0.015339961
+0, 3, Bubulcus ibis_Cattle Egret, 0.012716983
+0, 3, Nycticorax nycticorax_Black-crowned Night-Heron, 0.012621044
+0, 3, Anser cygnoides_Swan Goose, 0.011005518
+3, 6, Phoenicopterus roseus_Greater Flamingo, 0.34726804
+3, 6, Ortalis ruficauda_Rufous-vented Chachalaca, 0.011573756
+3, 6, Alopochen aegyptiaca_Egyptian Goose, 0.010499261
+3, 6, Ortalis erythroptera_Rufous-headed Chachalaca, 0.007935914
+3, 6, Scythrops novaehollandiae_Channel-billed Cuckoo, 0.005813769
+6, 9, Cygnus cygnus_Whooper Swan, 0.10287638
+6, 9, Branta canadensis_Canada Goose, 0.09936069
+6, 9, Cygnus buccinator_Trumpeter Swan, 0.04021757
+6, 9, Dog_Dog, 0.016483111
+6, 9, Phoenicopterus roseus_Greater Flamingo, 0.01608187
+9, 12, Dog_Dog, 0.07164413
+9, 12, Phoenicopterus roseus_Greater Flamingo, 0.010222352
+9, 12, Buteo platypterus_Broad-winged Hawk, 0.007870173
+9, 12, Colorhamphus parvirostris_Patagonian Tyrant, 0.007429329
+9, 12, Corvus corax_Common Raven, 0.0072493576
+12, 15, Phoenicopterus roseus_Greater Flamingo, 0.09374106
+12, 15, Ardea herodias_Great Blue Heron, 0.02980797
+12, 15, Alopochen aegyptiaca_Egyptian Goose, 0.02671532
+12, 15, Dog_Dog, 0.009985899
+12, 15, Ardea purpurea_Purple Heron, 0.0060153394
+15, 18, Dog_Dog, 0.8702686
+15, 18, Phoenicopterus roseus_Greater Flamingo, 0.44788077
+15, 18, Buceros bicornis_Great Hornbill, 0.011943293
+15, 18, Ardea herodias_Great Blue Heron, 0.011725919
+15, 18, Nycticorax nycticorax_Black-crowned Night-Heron, 0.009260398
+18, 21, Phoenicopterus roseus_Greater Flamingo, 0.49810404
+18, 21, Dog_Dog, 0.11182594
+18, 21, Buceros bicornis_Great Hornbill, 0.033765882
+18, 21, Psilopogon zeylanicus_Brown-headed Barbet, 0.014125555
+18, 21, Phalacrocorax carbo_Great Cormorant, 0.012434865
+21, 24, Dog_Dog, 0.37167573
+21, 24, Nycticorax nycticorax_Black-crowned Night-Heron, 0.049418382
+21, 24, Buceros rhinoceros_Rhinoceros Hornbill, 0.026133643
+21, 24, Otus bakkamoena_Indian Scops-Owl, 0.021780368
+21, 24, Zosterops meyeni_Lowland White-eye, 0.018489059
+24, 27, Human vocal_Human vocal, 0.06068669
+24, 27, Psilopogon haemacephalus_Coppersmith Barbet, 0.026531195
+24, 27, Dog_Dog, 0.02365675
+24, 27, Engine_Engine, 0.022593029
+24, 27, Phoenicopterus roseus_Greater Flamingo, 0.014495009
+27, 30, Bubulcus ibis_Cattle Egret, 0.12513275
+27, 30, Egretta caerulea_Little Blue Heron, 0.09856891
+27, 30, Anas platyrhynchos_Mallard, 0.051458042
+27, 30, Psilopogon haemacephalus_Coppersmith Barbet, 0.022366408
+27, 30, Penelope purpurascens_Crested Guan, 0.013729491
+30, 33, Anas platyrhynchos_Mallard, 0.4342171
+30, 33, Bubulcus ibis_Cattle Egret, 0.14907274
+30, 33, Anas poecilorhyncha_Indian Spot-billed Duck, 0.018222457
+30, 33, Egretta caerulea_Little Blue Heron, 0.014347728
+30, 33, Acridotheres tristis_Common Myna, 0.011656982
+33, 36, Threskiornis molucca_Australian Ibis, 0.11064108
+33, 36, Ardea cinerea_Gray Heron, 0.05011539
+33, 36, Pteroglossus inscriptus_Lettered Aracari, 0.045653842
+33, 36, Bubulcus ibis_Cattle Egret, 0.033285417
+33, 36, Anas platyrhynchos_Mallard, 0.031488348
+36, 39, Psilopogon haemacephalus_Coppersmith Barbet, 0.2584922
+36, 39, Phoeniculus purpureus_Green Woodhoopoe, 0.068329476
+36, 39, Anas platyrhynchos_Mallard, 0.033266578
+36, 39, Lophura leucomelanos_Kalij Pheasant, 0.030869855
+36, 39, Gallus sonneratii_Gray Junglefowl, 0.016374277
+39, 42, Phoenicopterus roseus_Greater Flamingo, 0.48297396
+39, 42, Buceros bicornis_Great Hornbill, 0.050450973
+39, 42, Ortalis columbiana_Colombian Chachalaca, 0.027915768
+39, 42, Cochlearius cochlearius_Boat-billed Heron, 0.018397298
+39, 42, Bubulcus ibis_Cattle Egret, 0.01768876
+42, 45, Mino dumontii_Yellow-faced Myna, 0.032712054
+42, 45, Pica pica_Eurasian Magpie, 0.025888907
+42, 45, Corvus macrorhynchos_Large-billed Crow, 0.025193201
+42, 45, Phoenicopterus roseus_Greater Flamingo, 0.021968571
+42, 45, Gallus sonneratii_Gray Junglefowl, 0.015219378
+45, 48, Phoenicurus ochruros_Black Redstart, 0.020293362
+45, 48, Iduna rama_Sykes's Warbler, 0.01861837
+45, 48, Ficedula parva_Red-breasted Flycatcher, 0.018003054
+45, 48, Arundinax aedon_Thick-billed Warbler, 0.011410973
+45, 48, Jynx torquilla_Eurasian Wryneck, 0.0097320825
+48, 51, Corvus brachyrhynchos_American Crow, 0.10398277
+48, 51, Cygnus buccinator_Trumpeter Swan, 0.03333322
+48, 51, Strix varia_Barred Owl, 0.032299284
+48, 51, Gallus sonneratii_Gray Junglefowl, 0.020373093
+48, 51, Glaucidium nana_Austral Pygmy-Owl, 0.01823658
+51, 54, Dog_Dog, 0.11026889
+51, 54, Buceros bicornis_Great Hornbill, 0.030690331
+51, 54, Alectura lathami_Australian Brushturkey, 0.022771498
+51, 54, Horornis fortipes_Brownish-flanked Bush Warbler, 0.010911211
+51, 54, Human vocal_Human vocal, 0.008882422
+54, 57, Columba livia_Rock Pigeon, 0.03249488
+54, 57, Engine_Engine, 0.02542648
+54, 57, Human vocal_Human vocal, 0.023411024
+54, 57, Power tools_Power tools, 0.015922103
+54, 57, Zosterops palpebrosus_Indian White-eye, 0.013230676
+57, 60, Dendrocitta vagabunda_Rufous Treepie, 0.027135614
+57, 60, Corvus splendens_House Crow, 0.020808011
+57, 60, Psilopogon haemacephalus_Coppersmith Barbet, 0.017878974
+57, 60, Eudynamys scolopaceus_Asian Koel, 0.014046843
+57, 60, Dicaeum australe_Red-keeled Flowerpecker, 0.012586798
+60, 63, Bubulcus ibis_Cattle Egret, 0.0346272
+60, 63, Phoenicopterus roseus_Greater Flamingo, 0.033296242
+60, 63, Dacelo novaeguineae_Laughing Kookaburra, 0.021862201
+60, 63, Threskiornis molucca_Australian Ibis, 0.015436578
+60, 63, Gymnorhina tibicen_Australian Magpie, 0.013204008
+63, 66, Phoenicopterus roseus_Greater Flamingo, 0.3160187
+63, 66, Threskiornis melanocephalus_Black-headed Ibis, 0.071071245
+63, 66, Bubulcus ibis_Cattle Egret, 0.021994004
+63, 66, Dog_Dog, 0.013465729
+63, 66, Branta leucopsis_Barnacle Goose, 0.008114544
+66, 69, Phoenicopterus roseus_Greater Flamingo, 0.31919554
+66, 69, Branta canadensis_Canada Goose, 0.12630025
+66, 69, Alopochen aegyptiaca_Egyptian Goose, 0.05482436
+66, 69, Anser caerulescens_Snow Goose, 0.045775272
+66, 69, Anser cygnoides_Swan Goose, 0.017747184
+69, 72, Branta canadensis_Canada Goose, 0.53767717
+69, 72, Alopochen aegyptiaca_Egyptian Goose, 0.08423012
+69, 72, Phoenicopterus roseus_Greater Flamingo, 0.019409627
+69, 72, Branta hutchinsii_Cackling Goose, 0.012856641
+69, 72, Corvus corax_Common Raven, 0.01100421
+72, 75, Phoenicopterus roseus_Greater Flamingo, 0.8938983
+72, 75, Dog_Dog, 0.12972318
+72, 75, Bubulcus ibis_Cattle Egret, 0.041254576
+72, 75, Engine_Engine, 0.022880489
+72, 75, Phalacrocorax carbo_Great Cormorant, 0.009680597
+75, 78, Phoenicopterus roseus_Greater Flamingo, 0.24458903
+75, 78, Dog_Dog, 0.076817214
+75, 78, Bubulcus ibis_Cattle Egret, 0.03449413
+75, 78, Penelope obscura_Dusky-legged Guan, 0.029225273
+75, 78, Ardea herodias_Great Blue Heron, 0.025307283
+78, 81, Phoenicopterus roseus_Greater Flamingo, 0.3660329
+78, 81, Bubulcus ibis_Cattle Egret, 0.083159894
+78, 81, Nettapus coromandelianus_Cotton Pygmy-Goose, 0.018732296
+78, 81, Dog_Dog, 0.007037496
+78, 81, Branta canadensis_Canada Goose, 0.0066490793
+81, 84, Phoenicopterus roseus_Greater Flamingo, 0.21750452
+81, 84, Cygnus cygnus_Whooper Swan, 0.1718139
+81, 84, Branta canadensis_Canada Goose, 0.051978897
+81, 84, Anser anser_Graylag Goose, 0.029107967
+81, 84, Anser fabalis_Taiga Bean-Goose, 0.007331685
+84, 87, Cygnus cygnus_Whooper Swan, 0.042463746
+84, 87, Bubulcus ibis_Cattle Egret, 0.018884094
+84, 87, Mesembrinibis cayennensis_Green Ibis, 0.012443195
+84, 87, Phimosus infuscatus_Bare-faced Ibis, 0.011919834
+84, 87, Phalacrocorax carbo_Great Cormorant, 0.010633085
+87, 90, Phoenicopterus roseus_Greater Flamingo, 0.10140259
+87, 90, Alisterus scapularis_Australian King-Parrot, 0.02384314
+87, 90, Dacelo novaeguineae_Laughing Kookaburra, 0.0196681
+87, 90, Aramides cajaneus_Gray-cowled Wood-Rail, 0.015252797
+87, 90, Nycticorax nycticorax_Black-crowned Night-Heron, 0.013623879
