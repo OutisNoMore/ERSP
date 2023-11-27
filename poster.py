@@ -4,10 +4,11 @@ import sys
 
 """
 usage:
-python3 poster.py <graph_title> <file_1> <file_2> <file_3>...
-ie python3 poster.py Flamingo flamingo_galaxy flamingo_blubold flamingo_ground_truth
-creates graph with title flamingo
-each input file should only have 1 confidence per line.
+python3 poster.py <graph_title> <bird_to_graph> <Ground_truth> <file_1> <file_2> <file_3>...
+ie python3 poster.py "Flamingo" "Greater Flamingo" flamingo_ground_truth flamingo_galaxy flamingo_blubold 
+creates graph with title Flamingo
+input files should be csv as output by AudioBird app
+Except for ground truth file - this should have just a 0 or 1 for confidence per line
 """
 
 
