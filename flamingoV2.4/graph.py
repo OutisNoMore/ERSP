@@ -5,10 +5,9 @@ import sys
 """
 usage:
 python3 poster.py <graph_title> <bird_to_graph> <Ground_truth> <file_1> <file_2> <file_3>...
-ie python3 poster.py "Flamingo" "Greater Flamingo" flamingo_ground_truth flamingo_galaxy flamingo_blubold 
+ie python3 poster.py "Flamingo" flamingo_ground_truth flamingo_galaxy flamingo_blubold 
 creates graph with title Flamingo
-input files should be csv as output by AudioBird app
-Except for ground truth file - this should have just a 0 or 1 for confidence per line
+Files should have just a 0 or 1 for confidence per line
 """
 
 
@@ -19,9 +18,10 @@ def plot(X, Ys, labels):
     matplotlib.pyplot.xlabel("Time (s)")
     matplotlib.pyplot.ylabel("Confidence")
     matplotlib.pyplot.ylim(0, 1.1)
+    #matplotlib.pyplot.title(sys.argv[1])
     matplotlib.pyplot.legend(bbox_to_anchor=(0.05, 1.32), loc='upper left', ncols=2)
     matplotlib.pyplot.tight_layout()
-    matplotlib.pyplot.grid(axis='y', linestyle='dotted', color='#D3D3D3')
+    matplotlib.pyplot.grid(axis='y', linestyle='dashed', color='#D3D3D3')
     matplotlib.pyplot.tight_layout()
     matplotlib.pyplot.savefig(sys.argv[1])
     matplotlib.pyplot.show()
@@ -30,35 +30,17 @@ def plot(X, Ys, labels):
 def main():
     output = []  # Array of confidences for each phone
     labels = []  # type of phone
-    smallest = float('inf') # conform to same length recording
-    bird_name = sys.argv[2] # name of bird to plot
-    # Extend data for 3 second intervals
-    tripled = []
     X = []
-    with open(sys.argv[3], 'r') as confidences:
-        labels.append(sys.argv[3])
-        for confidence in confidences:
-            tripled.append(float(confidence))
-            tripled.append(float(confidence))
-            tripled.append(float(confidence))
-        if len(tripled) < smallest:
-            smallest = len(tripled)
-        output.append(tripled)
-    for dataFile in sys.argv[4:]:
+    smallest = float('inf') # conform to same length recording
+    # Extend data for 3 second intervals
+    for dataFile in sys.argv[2:]:
         tripled = []
         labels.append(dataFile)
-        confidences = numpy.loadtxt(dataFile, dtype='str', delimiter=',', skiprows=1)
-        confidence = 0 
-        for i in range(len(confidences)):
-            if bird_name in confidences[i][2]:
-                # found bird 
-                confidence = float(confidences[i][3])
-            if i == len(confidences) - 1 or confidences[i][0] != confidences[i + 1][0]:
-                # reached end of interval - plot confidence of bird
+        with open(dataFile, 'r') as confidences:
+            for confidence in confidences:
                 tripled.append(float(confidence))
                 tripled.append(float(confidence))
                 tripled.append(float(confidence))
-                confidence = 0
         if len(tripled) < smallest:
             smallest = len(tripled)
         output.append(tripled)
