@@ -69,93 +69,103 @@ start_of_interval,end_of_interval,species,confidence
 39, 42, Hylocichla mustelina_Wood Thrush, 0.0746383
 39, 42, Seiurus aurocapilla_Ovenbird, 0.0554346
 39, 42, Bubulcus ibis_Cattle Egret, 0.054128096
-42, 45, Perisoreus canadensis_Canada Jay, 0.11501807
-42, 45, Corvus brachyrhynchos_American Crow, 0.1063689
-42, 45, Cyanocitta cristata_Blue Jay, 0.08504486
-42, 45, Pica hudsonia_Black-billed Magpie, 0.07820029
-42, 45, Baeolophus bicolor_Tufted Titmouse, 0.07320122
-45, 48, Troglodytes hiemalis_Winter Wren, 0.17946199
-45, 48, Troglodytes troglodytes_Eurasian Wren, 0.037578143
-45, 48, Gallinula chloropus_Eurasian Moorhen, 0.030669507
-45, 48, Phasianus colchicus_Ring-necked Pheasant, 0.029982602
-45, 48, Loxia leucoptera_White-winged Crossbill, 0.027689392
-48, 51, Human vocal_Human vocal, 0.04182425
-48, 51, Dog_Dog, 0.033416044
-48, 51, Engine_Engine, 0.018098395
-48, 51, Branta hutchinsii_Cackling Goose, 0.01028499
-48, 51, Perisoreus canadensis_Canada Jay, 0.0092456015
-51, 54, Branta canadensis_Canada Goose, 0.08832895
-51, 54, Platycercus adscitus_Pale-headed Rosella, 0.038860522
-51, 54, Porzana porzana_Spotted Crake, 0.03746861
-51, 54, Certhia americana_Brown Creeper, 0.033340406
-51, 54, Eurocephalus ruppelli_White-rumped Shrike, 0.03288188
-54, 57, Branta canadensis_Canada Goose, 0.098368876
-54, 57, Cygnus cygnus_Whooper Swan, 0.07837623
-54, 57, Phoenicopterus roseus_Greater Flamingo, 0.06941327
-54, 57, Anser caerulescens_Snow Goose, 0.04101701
-54, 57, Penelope obscura_Dusky-legged Guan, 0.021086894
-57, 60, Certhia americana_Brown Creeper, 0.11309287
-57, 60, Branta canadensis_Canada Goose, 0.08889708
-57, 60, Bubulcus ibis_Cattle Egret, 0.062087238
-57, 60, Hylocichla mustelina_Wood Thrush, 0.053128555
-57, 60, Ardea herodias_Great Blue Heron, 0.045823682
-60, 63, Alopochen aegyptiaca_Egyptian Goose, 0.12141015
-60, 63, Branta canadensis_Canada Goose, 0.09916091
-60, 63, Podiceps cristatus_Great Crested Grebe, 0.096615694
-60, 63, Phoenicopterus ruber_American Flamingo, 0.09055865
-60, 63, Anser caerulescens_Snow Goose, 0.07284536
-63, 66, Branta canadensis_Canada Goose, 0.8731352
-63, 66, Phoenicopterus roseus_Greater Flamingo, 0.33010414
-63, 66, Alopochen aegyptiaca_Egyptian Goose, 0.11383647
-63, 66, Agelaius phoeniceus_Red-winged Blackbird, 0.03857358
-63, 66, Phoenicopterus ruber_American Flamingo, 0.03274939
-66, 69, Phoenicopterus roseus_Greater Flamingo, 0.7569071
-66, 69, Branta canadensis_Canada Goose, 0.0903509
-66, 69, Ardea herodias_Great Blue Heron, 0.06889317
-66, 69, Alopochen aegyptiaca_Egyptian Goose, 0.025014319
-66, 69, Larus marinus_Great Black-backed Gull, 0.020855257
-69, 72, Phoenicopterus roseus_Greater Flamingo, 0.8012615
-69, 72, Bubulcus ibis_Cattle Egret, 0.07446581
-69, 72, Ardea herodias_Great Blue Heron, 0.055116337
-69, 72, Dog_Dog, 0.02847473
-69, 72, Pica pica_Eurasian Magpie, 0.022130428
-72, 75, Dog_Dog, 0.12824446
-72, 75, Perisoreus canadensis_Canada Jay, 0.054646567
-72, 75, Engine_Engine, 0.03926477
-72, 75, Cygnus buccinator_Trumpeter Swan, 0.03387883
-72, 75, Phoenicopterus roseus_Greater Flamingo, 0.02663504
-75, 78, Cygnus cygnus_Whooper Swan, 0.6601007
-75, 78, Phoenicopterus roseus_Greater Flamingo, 0.123588085
-75, 78, Cygnus olor_Mute Swan, 0.088284835
-75, 78, Branta canadensis_Canada Goose, 0.077367604
-75, 78, Anser anser_Graylag Goose, 0.02432229
-78, 81, Phoenicopterus roseus_Greater Flamingo, 0.21494682
-78, 81, Cygnus cygnus_Whooper Swan, 0.14390327
-78, 81, Cygnus olor_Mute Swan, 0.06708311
-78, 81, Anser anser_Graylag Goose, 0.048538323
-78, 81, Bubulcus ibis_Cattle Egret, 0.0431424
-81, 84, Cygnus cygnus_Whooper Swan, 0.815871
-81, 84, Branta canadensis_Canada Goose, 0.043283444
-81, 84, Cygnus olor_Mute Swan, 0.03311287
-81, 84, Bubulcus ibis_Cattle Egret, 0.025205025
-81, 84, Steatornis caripensis_Oilbird, 0.021066558
-84, 87, Gun_Gun, 0.31559289
-84, 87, Engine_Engine, 0.20489702
-84, 87, Power tools_Power tools, 0.16467372
-84, 87, Human vocal_Human vocal, 0.05600547
-84, 87, Dog_Dog, 0.052047446
-87, 90, Engine_Engine, 0.114857145
-87, 90, Gun_Gun, 0.06547596
-87, 90, Power tools_Power tools, 0.05710918
-87, 90, Human vocal_Human vocal, 0.053536955
-87, 90, Fireworks_Fireworks, 0.036837164
-90, 93, Human vocal_Human vocal, 0.29112688
-90, 93, Engine_Engine, 0.2284752
-90, 93, Gun_Gun, 0.06813717
-90, 93, Dog_Dog, 0.022062536
-90, 93, Power tools_Power tools, 0.019474173
-93, 96, Human vocal_Human vocal, 0.20086543
-93, 96, Gun_Gun, 0.06424038
-93, 96, Engine_Engine, 0.05152425
-93, 96, Cygnus buccinator_Trumpeter Swan, 0.03217106
-93, 96, Dryophytes cinereus_Green Treefrog, 0.01776004
+42, 45, buffer, 0
+42, 45, buffer, 0
+42, 45, buffer, 0
+42, 45, buffer, 0
+42, 45, buffer, 0
+45, 48, buffer, 0
+45, 48, buffer, 0
+45, 48, buffer, 0
+45, 48, buffer, 0
+45, 48, buffer, 0
+48, 51, Perisoreus canadensis_Canada Jay, 0.11501807
+48, 51, Corvus brachyrhynchos_American Crow, 0.1063689
+48, 51, Cyanocitta cristata_Blue Jay, 0.08504486
+48, 51, Pica hudsonia_Black-billed Magpie, 0.07820029
+48, 51, Baeolophus bicolor_Tufted Titmouse, 0.07320122
+51, 54, Troglodytes hiemalis_Winter Wren, 0.17946199
+51, 54, Troglodytes troglodytes_Eurasian Wren, 0.037578143
+51, 54, Gallinula chloropus_Eurasian Moorhen, 0.030669507
+51, 54, Phasianus colchicus_Ring-necked Pheasant, 0.029982602
+51, 54, Loxia leucoptera_White-winged Crossbill, 0.027689392
+54, 57, Human vocal_Human vocal, 0.04182425
+54, 57, Dog_Dog, 0.033416044
+54, 57, Engine_Engine, 0.018098395
+54, 57, Branta hutchinsii_Cackling Goose, 0.01028499
+54, 57, Perisoreus canadensis_Canada Jay, 0.0092456015
+57, 60, Branta canadensis_Canada Goose, 0.08832895
+57, 60, Platycercus adscitus_Pale-headed Rosella, 0.038860522
+57, 60, Porzana porzana_Spotted Crake, 0.03746861
+57, 60, Certhia americana_Brown Creeper, 0.033340406
+57, 60, Eurocephalus ruppelli_White-rumped Shrike, 0.03288188
+60, 63, Branta canadensis_Canada Goose, 0.098368876
+60, 63, Cygnus cygnus_Whooper Swan, 0.07837623
+60, 63, Phoenicopterus roseus_Greater Flamingo, 0.06941327
+60, 63, Anser caerulescens_Snow Goose, 0.04101701
+60, 63, Penelope obscura_Dusky-legged Guan, 0.021086894
+63, 66, Certhia americana_Brown Creeper, 0.11309287
+63, 66, Branta canadensis_Canada Goose, 0.08889708
+63, 66, Bubulcus ibis_Cattle Egret, 0.062087238
+63, 66, Hylocichla mustelina_Wood Thrush, 0.053128555
+63, 66, Ardea herodias_Great Blue Heron, 0.045823682
+66, 69, Alopochen aegyptiaca_Egyptian Goose, 0.12141015
+66, 69, Branta canadensis_Canada Goose, 0.09916091
+66, 69, Podiceps cristatus_Great Crested Grebe, 0.096615694
+66, 69, Phoenicopterus ruber_American Flamingo, 0.09055865
+66, 69, Anser caerulescens_Snow Goose, 0.07284536
+69, 72, Branta canadensis_Canada Goose, 0.8731352
+69, 72, Phoenicopterus roseus_Greater Flamingo, 0.33010414
+69, 72, Alopochen aegyptiaca_Egyptian Goose, 0.11383647
+69, 72, Agelaius phoeniceus_Red-winged Blackbird, 0.03857358
+69, 72, Phoenicopterus ruber_American Flamingo, 0.03274939
+72, 75, Phoenicopterus roseus_Greater Flamingo, 0.7569071
+72, 75, Branta canadensis_Canada Goose, 0.0903509
+72, 75, Ardea herodias_Great Blue Heron, 0.06889317
+72, 75, Alopochen aegyptiaca_Egyptian Goose, 0.025014319
+72, 75, Larus marinus_Great Black-backed Gull, 0.020855257
+75, 78, Phoenicopterus roseus_Greater Flamingo, 0.8012615
+75, 78, Bubulcus ibis_Cattle Egret, 0.07446581
+75, 78, Ardea herodias_Great Blue Heron, 0.055116337
+75, 78, Dog_Dog, 0.02847473
+75, 78, Pica pica_Eurasian Magpie, 0.022130428
+78, 81, Dog_Dog, 0.12824446
+78, 81, Perisoreus canadensis_Canada Jay, 0.054646567
+78, 81, Engine_Engine, 0.03926477
+78, 81, Cygnus buccinator_Trumpeter Swan, 0.03387883
+78, 81, Phoenicopterus roseus_Greater Flamingo, 0.02663504
+81, 84, Cygnus cygnus_Whooper Swan, 0.6601007
+81, 84, Phoenicopterus roseus_Greater Flamingo, 0.123588085
+81, 84, Cygnus olor_Mute Swan, 0.088284835
+81, 84, Branta canadensis_Canada Goose, 0.077367604
+81, 84, Anser anser_Graylag Goose, 0.02432229
+84, 87, Phoenicopterus roseus_Greater Flamingo, 0.21494682
+84, 87, Cygnus cygnus_Whooper Swan, 0.14390327
+84, 87, Cygnus olor_Mute Swan, 0.06708311
+84, 87, Anser anser_Graylag Goose, 0.048538323
+84, 87, Bubulcus ibis_Cattle Egret, 0.0431424
+87, 90, Cygnus cygnus_Whooper Swan, 0.815871
+87, 90, Branta canadensis_Canada Goose, 0.043283444
+87, 90, Cygnus olor_Mute Swan, 0.03311287
+87, 90, Bubulcus ibis_Cattle Egret, 0.025205025
+87, 90, Steatornis caripensis_Oilbird, 0.021066558
+90, 93, Gun_Gun, 0.31559289
+90, 93, Engine_Engine, 0.20489702
+90, 93, Power tools_Power tools, 0.16467372
+90, 93, Human vocal_Human vocal, 0.05600547
+90, 93, Dog_Dog, 0.052047446
+93, 96, Engine_Engine, 0.114857145
+93, 96, Gun_Gun, 0.06547596
+93, 96, Power tools_Power tools, 0.05710918
+93, 96, Human vocal_Human vocal, 0.053536955
+93, 96, Fireworks_Fireworks, 0.036837164
+96, 99, Human vocal_Human vocal, 0.29112688
+96, 99, Engine_Engine, 0.2284752
+96, 99, Gun_Gun, 0.06813717
+96, 99, Dog_Dog, 0.022062536
+96, 99, Power tools_Power tools, 0.019474173
+99, 102, Human vocal_Human vocal, 0.20086543
+99, 102, Gun_Gun, 0.06424038
+99, 102, Engine_Engine, 0.05152425
+99, 102, Cygnus buccinator_Trumpeter Swan, 0.03217106
+99, 102, Dryophytes cinereus_Green Treefrog, 0.01776004

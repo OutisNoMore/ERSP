@@ -41,8 +41,8 @@ def main():
             tripled.append(float(confidence))
             tripled.append(float(confidence))
             tripled.append(float(confidence))
-        if len(tripled) < smallest:
-            smallest = len(tripled)
+        #if len(tripled) < smallest:
+        #    smallest = len(tripled)
         output.append(tripled)
     for dataFile in sys.argv[4:]:
         tripled = []
@@ -59,6 +59,10 @@ def main():
                 tripled.append(float(confidence))
                 tripled.append(float(confidence))
                 confidence = 0
+                if dataFile == sys.argv[-1]:
+                    X.append(int(confidences[i][0]) + 0)
+                    X.append(int(confidences[i][0]) + 1)
+                    X.append(int(confidences[i][0]) + 2)
         if len(tripled) < smallest:
             smallest = len(tripled)
         output.append(tripled)
@@ -67,7 +71,9 @@ def main():
         while len(data) > smallest:
             data.pop()
     # Plot confidences against seconds
-    X = list(range(0, smallest))
+    while len(X) > smallest:
+        X.pop()
+    #X = list(range(0, smallest))
     plot(X, output, labels)
 
 if __name__ == "__main__":
